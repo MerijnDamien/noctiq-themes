@@ -96,6 +96,9 @@
         "complementary_products",
         "5df6f88f-77b0-4e4a-be10-98efe74f3bb5"
       ],
+      "custom_css": [
+        ".product-info__block-item[data-block-type=\"liquid\"] {margin: 0;}"
+      ],
       "settings": {
         "container_size": "lg",
         "product_info_size": 50,
