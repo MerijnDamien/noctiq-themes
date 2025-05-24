@@ -50,7 +50,7 @@
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
-        "image_size": "auto",
+        "image_size": "lg",
         "image": "shopify://shop_images/Gemini_Generated_Image_r0t9mir0t9mir0t9.jpg",
         "mobile_image": "shopify://shop_images/Gemini_Generated_Image_yh0pvxyh0pvxyh0p.jpg",
         "allow_transparent_header": false,
