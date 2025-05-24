@@ -63,7 +63,7 @@
         "heading_Wyhrdm": {
           "type": "heading",
           "settings": {
-            "text": "<strong>Verbeter je slaap, en verbeter je oog met mapangpang</strong>",
+            "text": "Restez concentré. Ressentez la différence",
             "heading_tag": "h1"
           }
         },
@@ -93,7 +93,7 @@
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "image_size": "auto",
-        "image": "shopify://shop_images/Gemini_Generated_Image_ze1wu0ze1wu0ze1w.jpg",
+        "image": "shopify://shop_images/Gemini_Generated_Image_r0t9mir0t9mir0t9.jpg",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": false,
