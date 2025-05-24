@@ -1,0 +1,75 @@
+{% if template == 'cart' %}
+  <script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({ ecommerce: null });
+dataLayer.push({
+  event: "view_cart",
+  ecommerce: {
+      value: {{ cart.total_price | times: 0.01  }},
+      quantity: {{ cart.item_count }},
+      currency: "{{ shop.currency }}",
+      items: [
+       {% for items in cart.items %}{
+        item_id: "{{ items.product_id }}",
+        item_name: "{{ items.title | remove: "'" | remove: '"' }}",
+         item_list_name:"{{ items.product.collections[0].title }}",
+         item_list_id:"{{ items.product.collections[0].id  }}",
+        currency: "{{ shop.currency }}",
+        price: {{ items.final_price | times: 0.01 }},
+        quantity: {{ items.quantity }}
+     
+      },{% endfor %}
+ ]
+  }
+});
+</script>
+  {% endif %}
+
+  {% if template == 'product' %}
+  <script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({ ecommerce: null });
+dataLayer.push({
+  event: "view_item",
+  ecommerce: {
+      value: {{ product.price | times: 0.01  }},
+    currency:"{{ shop.currency }}",
+
+      items:[
+        {
+           item_id: "{{ product.id }}",
+          item_name: "{{ product.title }}",
+          item_list_name:"{{ product.collections[0].title }}",
+          item_list_id:"{{ product.collections[0].id }}",
+          currency: "{{ shop.currency }}",
+          price: {{product.price | times: 0.01}}
+        }
+          ]
+     
+  }
+});
+</script>
+  {% endif %}
+
+    {% if template == 'collection' %}
+ <script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({ ecommerce: null });
+dataLayer.push({
+  event: "view_item_list",
+  ecommerce: {
+      items: [
+       {% for product in collection.products %}{
+        item_id: "{{ product.id }}",
+        item_name: "{{ product.title | remove: "'" | remove: '"' }}",
+         item_list_name: "{{ collection.title  }}",
+         item_list_id: "{{ collection.id }}",
+        currency: "{{ shop.currency }}",
+        price: {{ product.price | times: 0.01 }},
+     
+      },{% endfor %}
+ ]
+  }
+});
+</script>
+  {% endif %}
