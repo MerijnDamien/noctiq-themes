@@ -125,7 +125,7 @@
         "heading_qArmQ4": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
+            "text": "DESIRE FUNNEL",
             "heading_tag": "h1"
           }
         },
@@ -145,9 +145,167 @@
       "settings": {
         "separate_section_with_border": true,
         "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_Y9PEQL": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_HKMDLm": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_9YmCbp": {
+          "type": "heading",
+          "settings": {
+            "text": "BENEFITS FUNNEL",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_LhdJgi": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HKMDLm",
+        "heading_9YmCbp",
+        "richtext_LhdJgi"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
         "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_K6MreX": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_iCmBBr": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_BzDMq4": {
+          "type": "heading",
+          "settings": {
+            "text": "BENEFITS FUNNEL",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_cbnXiD": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_iCmBBr",
+        "heading_BzDMq4",
+        "richtext_cbnXiD"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "faq_G3CjWz": {
+      "type": "faq",
+      "blocks": {
+        "category_ycggdi": {
+          "type": "category",
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_cbzY8g": {
+          "type": "question",
+          "settings": {
+            "question": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "question_tEFCHk": {
+          "type": "question",
+          "settings": {
+            "question": "How long will it take to get my orders?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "question_dqtqFp": {
+          "type": "question",
+          "settings": {
+            "question": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_ycggdi",
+        "question_cbzY8g",
+        "question_tEFCHk",
+        "question_dqtqFp"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "Need help?",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
+    },
+    "rich_text_xTdLhT": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_WtYtpr": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_9PjWwx": {
+          "type": "heading",
+          "settings": {
+            "text": "INSTAFEED",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_yxnYNy": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_WtYtpr",
+        "heading_9PjWwx",
+        "richtext_yxnYNy"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "1748090790429fa237": {
@@ -196,6 +354,10 @@
     "featured_collections_3F8UDd",
     "391703b2-99fc-4ac4-bd97-42dad2b32c64",
     "image_with_text_JFQQqL",
+    "image_with_text_Y9PEQL",
+    "image_with_text_K6MreX",
+    "faq_G3CjWz",
+    "rich_text_xTdLhT",
     "1748090790429fa237",
     "168769821157a82f82"
   ]
