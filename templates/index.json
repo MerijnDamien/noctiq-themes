@@ -50,7 +50,7 @@
       ],
       "custom_css": [
         ".content-over-media.content-over-media--md {height: 550px !important;}",
-        ".h2, div {margin-top:;}"
+        ".h2, div {margin-top: 10px !important;}"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
