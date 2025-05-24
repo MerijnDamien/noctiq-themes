@@ -72,12 +72,23 @@
           "settings": {
             "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
           }
+        },
+        "button_jWmQaw": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "SHOP NU",
+            "url": "",
+            "background": "#ffffff",
+            "text_color": "#0d1338"
+          }
         }
       },
       "block_order": [
         "liquid_aiXp3t",
         "heading_Wyhrdm",
-        "richtext_pXiTRN"
+        "richtext_pXiTRN",
+        "button_jWmQaw"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
@@ -85,10 +96,10 @@
         "image": "shopify://shop_images/Gemini_Generated_Image_ze1wu0ze1wu0ze1w.jpg",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
-        "remove_vertical_spacing": true,
+        "remove_vertical_spacing": false,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "desktop_text_position": "sm:place-self-end-start sm:text-start",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
