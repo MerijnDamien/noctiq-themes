@@ -15,13 +15,13 @@
         "liquid_G8Ka3g": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; gap: 6px;\">\n<div style=\"color: black; font-size: 20px;\">\n★★★★★\n</div>\n<span style=\"font-size: 16px; color: black;\">4.8/5.0 (343+ Avis)</span>\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 6px;\">\n<div style=\"color: black; font-size: 16px;\">\n★★★★★\n</div>\n<span style=\"font-size: 13px; color: black;\">4.8/5.0 (343+ Avis)</span>\n</div>"
           }
         },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h3"
+            "heading_tag": "h1"
           }
         },
         "price": {
@@ -97,13 +97,14 @@
         "5df6f88f-77b0-4e4a-be10-98efe74f3bb5"
       ],
       "custom_css": [
-        ".product-info__block-item[data-block-type=\"liquid\"] {margin: 0;}"
+        ".product-info__block-item[data-block-type=\"liquid\"] {margin: 0;}",
+        "sale-price.h4.text-on-sale {font-size: 24px;}"
       ],
       "settings": {
         "container_size": "lg",
         "product_info_size": 50,
         "show_sticky_add_to_cart": true,
-        "center_basic_info": true,
+        "center_basic_info": false,
         "desktop_media_layout": "grid_2x_highlighted",
         "desktop_media_grid_gap": 24,
         "mobile_controls": "thumbnails",
