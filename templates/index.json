@@ -49,7 +49,7 @@
         "button_jWmQaw"
       ],
       "custom_css": [
-        ".content-over-media.content-over-media--md {height: 60vh !important;}"
+        ".content-over-media.content-over-media--md {height: 80vh !important;}"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
