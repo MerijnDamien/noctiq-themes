@@ -9,48 +9,6 @@
  */
 {
   "sections": {
-    "ef6426a4-9272-40aa-a31d-bcfce357685f": {
-      "type": "scrolling-content",
-      "blocks": {
-        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-0": {
-          "type": "text",
-          "settings": {
-            "text": "Aprovecha toda la tienda en descuento"
-          }
-        },
-        "d061755a-d9ea-4024-83b7-374ae994b416": {
-          "type": "image",
-          "settings": {}
-        },
-        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Tu perfume habla por ti"
-          }
-        }
-      },
-      "block_order": [
-        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-0",
-        "d061755a-d9ea-4024-83b7-374ae994b416",
-        "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "separate_section_with_border": true,
-        "scrolling_speed": 0.3,
-        "scroll_direction": "left",
-        "text_font": "heading",
-        "text_font_size_mobile": 12,
-        "text_font_size_desktop": 14,
-        "section_vertical_spacing_mobile": 10,
-        "section_vertical_spacing_desktop": 10,
-        "item_horizontal_spacing_mobile": 80,
-        "item_horizontal_spacing_desktop": 120,
-        "background": "#000000",
-        "text_color": "#ffffff"
-      }
-    },
     "image_with_text_overlay_VCXid3": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -94,7 +52,7 @@
       "settings": {
         "image_size": "auto",
         "image": "shopify://shop_images/Gemini_Generated_Image_r0t9mir0t9mir0t9.jpg",
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "reveal_on_scroll": false,
         "remove_vertical_spacing": false,
         "content_width": "md",
@@ -581,7 +539,6 @@
     }
   },
   "order": [
-    "ef6426a4-9272-40aa-a31d-bcfce357685f",
     "image_with_text_overlay_VCXid3",
     "slideshow",
     "ad288bf2-ca27-4666-bed0-a98793ae3de8",

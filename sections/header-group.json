@@ -54,8 +54,8 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "show_separation_border": false,
-        "reduce_padding": true,
+        "show_separation_border": true,
+        "reduce_padding": false,
         "logo": "shopify://shop_images/Naamloos_45.png",
         "logo_max_width": 150,
         "logo_mobile_max_width": 150,
@@ -68,31 +68,16 @@
         "layout": "logo_left_navigation_center",
         "show_icons": true,
         "show_country_selector": true,
-        "show_country_name": false,
+        "show_country_name": true,
         "show_country_flag": true,
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff",
         "transparent_logo": "shopify://shop_images/Naamloos_46.png"
       }
-    },
-    "0863fba4-4f08-48da-b438-973d75fe7298": {
-      "type": "countdown-condensed",
-      "disabled": true,
-      "settings": {
-        "content": "<strong>NUEVOS LANZAMIENTOS</strong>",
-        "link_text": "",
-        "link_url": "",
-        "expiration_date": "2023-08-17 12:00",
-        "expiration_behavior": "leave",
-        "desktop_justification": "center",
-        "background": "#8d0303",
-        "text_color": "#ffffff"
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "0863fba4-4f08-48da-b438-973d75fe7298"
+    "header"
   ]
 }
