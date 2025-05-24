@@ -113,6 +113,52 @@
         "content": ""
       }
     },
+    "image_with_text_JFQQqL": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_JAXEAR": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_qArmQ4": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_fxVtHt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JAXEAR",
+        "heading_qArmQ4",
+        "richtext_fxVtHt"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "instafeed_kHiLjD": {
+      "type": "instafeed",
+      "name": "Instafeed App",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
     "168769821157a82f82": {
       "type": "apps",
       "settings": {
@@ -126,6 +172,8 @@
     "image_with_text_overlay_VCXid3",
     "featured_collections_3F8UDd",
     "391703b2-99fc-4ac4-bd97-42dad2b32c64",
+    "image_with_text_JFQQqL",
+    "instafeed_kHiLjD",
     "168769821157a82f82"
   ]
 }

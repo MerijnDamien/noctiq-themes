@@ -62,7 +62,14 @@
     "checkout_logo_image": "shopify://shop_images/Mesa_de_trabajo_16.png",
     "checkout_logo_size": "large",
     "heading_color": "#303030",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "1232542678405107163": {
+        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Allure": {
