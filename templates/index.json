@@ -49,7 +49,8 @@
         "button_jWmQaw"
       ],
       "custom_css": [
-        ".content-over-media.content-over-media--md {height: 550px !important;}"
+        ".content-over-media.content-over-media--md {height: 550px !important;}",
+        ".h2, div {margin-top:;}"
       ],
       "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
