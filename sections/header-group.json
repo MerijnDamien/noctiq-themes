@@ -71,7 +71,8 @@
         "show_country_name": false,
         "show_country_flag": true,
         "show_locale_selector": false,
-        "transparent_header_text_color": "#ffffff"
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/Naamloos_45.png"
       }
     },
     "0863fba4-4f08-48da-b438-973d75fe7298": {

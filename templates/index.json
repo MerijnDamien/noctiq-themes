@@ -35,6 +35,7 @@
         "d061755a-d9ea-4024-83b7-374ae994b416",
         "template--16840146288886__ef6426a4-9272-40aa-a31d-bcfce357685f-16877993307cd6569d-1"
       ],
+      "disabled": true,
       "settings": {
         "separate_section_with_border": true,
         "scrolling_speed": 0.3,
@@ -48,6 +49,49 @@
         "item_horizontal_spacing_desktop": 120,
         "background": "#000000",
         "text_color": "#ffffff"
+      }
+    },
+    "image_with_text_overlay_VCXid3": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "liquid_aiXp3t": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "★ ★ ★ ★ ★ <span style=\"margin-left: 5px;\">4.8/5  </span>"
+          }
+        },
+        "heading_Wyhrdm": {
+          "type": "heading",
+          "settings": {
+            "text": "VERBETER JE SLAAP, ERVAAR EEN BETER OOG",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_pXiTRN": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_aiXp3t",
+        "heading_Wyhrdm",
+        "richtext_pXiTRN"
+      ],
+      "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
+      "settings": {
+        "image_size": "auto",
+        "image": "shopify://shop_images/Gemini_Generated_Image_ze1wu0ze1wu0ze1w.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "slideshow": {
@@ -164,6 +208,7 @@
         "aaa7ecf2-815c-4dad-ba32-795868ad00dc",
         "4126154d-50ae-499a-8394-dcd3ca276ea1"
       ],
+      "disabled": true,
       "settings": {
         "allow_transparent_header": false,
         "show_next_section_button": true,
@@ -526,6 +571,7 @@
   },
   "order": [
     "ef6426a4-9272-40aa-a31d-bcfce357685f",
+    "image_with_text_overlay_VCXid3",
     "slideshow",
     "ad288bf2-ca27-4666-bed0-a98793ae3de8",
     "a4b93f76-7d69-4a1c-b3e0-566f043b767d",
