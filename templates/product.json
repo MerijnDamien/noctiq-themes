@@ -41,7 +41,7 @@
           "type": "liquid",
           "name": "UBRs",
           "settings": {
-            "liquid": "<div class=\"info-row\">\n    <span class=\"info-icon\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/fast-delivery_800x800.png?v=1748093130\n\" />\n    </span>\n    <span class=\"info-text\">Livraison Gratuite!</span>\n  </div>\n</div>\n\n  <div class=\"info-row\">\n    <span class=\"info-icon\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/shield_1.png?v=1748093922\n\" />\n    </span>\n    <span class=\"info-text\">Garantie de satisfaction à 100%</span>\n  </div>\n</div>\n\n\n\n<style>\n.info-row {\n  display: flex;\n  align-items: center;\n  margin-bottom: 6px;}\n\n.info-icon {\n  width: 22px;\n  height: 22px;\n  margin-right: 16px;\n  display: flex;\n  align-items: center;\n}\n</style>"
+            "liquid": "<div class=\"info-row-yc\">\n    <span class=\"info-icon-yc\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/fast-delivery_800x800.png?v=1748093130\n\" />\n    </span>\n    <span class=\"info-text\">Livraison Gratuite!</span>\n  </div>\n</div>\n\n  <div class=\"info-row-yc\">\n    <span class=\"info-icon-yc\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/shield_1.png?v=1748093922\n\" />\n    </span>\n    <span class=\"info-text\">Garantie de satisfaction à 100%</span>\n  </div>\n</div>\n\n\n\n<style>\n.info-row-yc {\n  display: flex;\n  align-items: center;\n  margin-bottom: 6px;}\n\n.info-icon-yc {\n  width: 22px;\n  height: 22px;\n  margin-right: 16px;\n  display: flex;\n  align-items: center;\n}\n</style>"
           }
         },
         "separator": {
