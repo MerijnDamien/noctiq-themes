@@ -94,8 +94,8 @@
       "settings": {
         "image_size": "auto",
         "image": "shopify://shop_images/Gemini_Generated_Image_r0t9mir0t9mir0t9.jpg",
-        "allow_transparent_header": false,
-        "reveal_on_scroll": true,
+        "allow_transparent_header": true,
+        "reveal_on_scroll": false,
         "remove_vertical_spacing": false,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
