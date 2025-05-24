@@ -24,18 +24,16 @@
             "show_taxes_notice": false
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "separator": {
           "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "description": {
           "type": "description",
+          "name": "Description",
           "settings": {
-            "collapse_content": false,
+            "collapse_content": true,
             "show_below_gallery": false
           }
         },
@@ -44,7 +42,7 @@
           "settings": {
             "hide_sold_out_variants": false,
             "selector_type": "block",
-            "color_selector_type": "color",
+            "color_selector_type": "variant",
             "size_chart_page": ""
           }
         },
@@ -83,7 +81,6 @@
       "block_order": [
         "title",
         "price",
-        "payment_terms",
         "separator",
         "description",
         "variant_picker",
