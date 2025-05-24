@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_G8Ka3g": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"rating-banner\">\n  <span class=\"stars\">★★★★★</span>\n  <span class=\"rating-text\">4.8/5 | 5.000+ clients satisfaits</span>\n</div>\n\n<style>\n.rating-banner {\n  color: #fff;\n  display: flex;\n  align-items: center;\n  font-size: 1.35em;\n  font-weight: 400;\n  letter-spacing: 0.01em;\n  white-space: nowrap; /* Prevent line breaks */\n  overflow-x: auto;    /* Allow horizontal scroll if needed */\n}\n\n.stars {\n  font-size: 1.15em;\n  margin-right: 10px;\n  letter-spacing: 0.15em;\n}\n\n.rating-text {\n  font-size: 1em;\n}\n\n@media (max-width: 600px) {\n  .rating-banner {\n    font-size: 0.85em;      /* Smaller overall font size */\n    justify-content: center;/* Center content horizontally */\n  }\n  .stars {\n    margin-right: 6px;\n    letter-spacing: 0.08em;\n  }\n\n}\n</style>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -79,6 +85,7 @@
         }
       },
       "block_order": [
+        "liquid_G8Ka3g",
         "title",
         "price",
         "separator",
