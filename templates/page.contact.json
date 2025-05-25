@@ -41,7 +41,7 @@
           "type": "question",
           "settings": {
             "question": "Quel est le délai de livraison?",
-            "answer": "<p>Notre délai de livraison standard est de <strong>3 à 8 jours ouvrables</strong>. Dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi (track & trace) pour suivre votre colis.</p>"
+            "answer": "<p>Notre délai de livraison standard est de <strong>3 à 8 jours ouvrables</strong>. <strong>La livraison est gratuite</strong> sur toutes les commandes.<br/><br/>Dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi (track & trace) pour suivre votre colis.</p>"
           }
         },
         "question_hahdEC": {
