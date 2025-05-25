@@ -53,7 +53,7 @@
         "icon-2": {
           "type": "item",
           "settings": {
-            "icon": "picto-success",
+            "icon": "picto-secure-profile",
             "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "Achetez en toute sécurité, toujours",
