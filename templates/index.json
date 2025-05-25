@@ -227,41 +227,40 @@
     "faq_G3CjWz": {
       "type": "faq",
       "blocks": {
-        "category_ycggdi": {
-          "type": "category",
-          "settings": {
-            "title": "Order",
-            "icon": "none",
-            "icon_width": 16
-          }
-        },
         "question_cbzY8g": {
           "type": "question",
           "settings": {
-            "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "question": "Les lunettes anti-lumière bleue aident-elles contre les maux de tête ou la fatigue oculaire ?",
+            "answer": "<p>Oui, de nombreux utilisateurs ressentent moins de maux de tête et moins de fatigue ou d'irritation oculaire après de longues heures devant un écran.</p>"
           }
         },
         "question_tEFCHk": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "Est-ce qu’elles aident vraiment à mieux dormir ?",
+            "answer": "<p>Oui, en filtrant la lumière bleue le soir, elles facilitent l’endormissement et améliorent la qualité du sommeil.</p>"
           }
         },
         "question_dqtqFp": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "Quels sont les avantages concrets pour ma productivité et ma concentration ?",
+            "answer": "<p>Vous restez concentré plus longtemps, êtes moins distrait par la fatigue et avez plus d’énergie en fin de journée.</p>"
+          }
+        },
+        "question_JdihTa": {
+          "type": "question",
+          "settings": {
+            "question": "Puis-je porter ces lunettes toute la journée sans inconfort ?",
+            "answer": "<p>Oui, elles sont légères, confortables et conçues pour un usage prolongé sans points de pression ni irritation.</p>"
           }
         }
       },
       "block_order": [
-        "category_ycggdi",
         "question_cbzY8g",
         "question_tEFCHk",
-        "question_dqtqFp"
+        "question_dqtqFp",
+        "question_JdihTa"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
