@@ -28,7 +28,7 @@
         "richtext_pXiTRN": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Nos lunettes bloquent la lumière bleue nocive pour protéger vos yeux,<br/>améliorer votre sommeil et booster votre énergie – pendant les études, le travail ou vos sessions gaming.</p>"
+            "content": "<p>Nos lunettes bloquent la lumière bleue nocive pour protéger vos yeux, améliorer votre sommeil et booster votre énergie – pendant les études, le travail ou vos sessions gaming.</p>"
           }
         },
         "button_jWmQaw": {
@@ -60,7 +60,7 @@
         "allow_transparent_header": false,
         "reveal_on_scroll": false,
         "remove_vertical_spacing": true,
-        "content_width": "md",
+        "content_width": "xs",
         "mobile_text_position": "place-self-end-center text-center",
         "desktop_text_position": "sm:place-self-end-start sm:text-start",
         "text_color": "#ffffff",
