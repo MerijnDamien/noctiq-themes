@@ -54,7 +54,7 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "show_separation_border": true,
+        "show_separation_border": false,
         "reduce_padding": false,
         "logo": "shopify://shop_images/Naamloos_45.png",
         "logo_max_width": 150,
