@@ -40,8 +40,8 @@
         "question_QTgm9z": {
           "type": "question",
           "settings": {
-            "question": "Do you ship overseas?",
-            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "question": "Quel est le délai de livraison?",
+            "answer": "<p>Notre délai de livraison standard est de <strong>3 à 8 jours ouvrables</strong>. Dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi (track & trace) pour suivre votre colis.</p>"
           }
         },
         "question_hahdEC": {
