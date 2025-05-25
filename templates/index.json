@@ -261,6 +261,13 @@
             "question": "Est-ce que ces lunettes ont du style, même en visioconférence ?",
             "answer": "<p>Oui, il existe des modèles élégants qui s’adaptent à un look professionnel, tendance ou discret selon vos goûts.</p>"
           }
+        },
+        "question_HdVdQb": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce que ces lunettes modifient les couleurs de mon écran ?",
+            "answer": "<p>Non, la plupart conservent un rendu des couleurs naturel tout en filtrant le spectre bleu nocif.</p>"
+          }
         }
       },
       "block_order": [
@@ -268,7 +275,8 @@
         "question_tEFCHk",
         "question_dqtqFp",
         "question_JdihTa",
-        "question_4g83Rc"
+        "question_4g83Rc",
+        "question_HdVdQb"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
