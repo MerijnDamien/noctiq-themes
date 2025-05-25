@@ -275,6 +275,13 @@
             "question": "Est-ce que ces lunettes modifient les couleurs de mon écran ?",
             "answer": "<p>Non, la plupart conservent un rendu des couleurs naturel tout en filtrant le spectre bleu nocif.</p>"
           }
+        },
+        "question_ABjbDJ": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce que l’investissement dans des lunettes anti-lumière bleue en vaut la peine ?",
+            "answer": "<p>Oui, surtout si vous passez beaucoup de temps devant un écran. Contrairement aux filtres logiciels, elles fonctionnent constamment et sans réglages.</p>"
+          }
         }
       },
       "block_order": [
@@ -284,7 +291,8 @@
         "question_dqtqFp",
         "question_JdihTa",
         "question_4g83Rc",
-        "question_HdVdQb"
+        "question_HdVdQb",
+        "question_ABjbDJ"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
