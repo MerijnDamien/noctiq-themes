@@ -254,13 +254,21 @@
             "question": "Puis-je porter ces lunettes toute la journée sans inconfort ?",
             "answer": "<p>Oui, elles sont légères, confortables et conçues pour un usage prolongé sans points de pression ni irritation.</p>"
           }
+        },
+        "question_4g83Rc": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce que ces lunettes ont du style, même en visioconférence ?",
+            "answer": "<p>Oui, il existe des modèles élégants qui s’adaptent à un look professionnel, tendance ou discret selon vos goûts.</p>"
+          }
         }
       },
       "block_order": [
         "question_cbzY8g",
         "question_tEFCHk",
         "question_dqtqFp",
-        "question_JdihTa"
+        "question_JdihTa",
+        "question_4g83Rc"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
