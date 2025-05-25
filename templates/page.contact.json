@@ -48,7 +48,7 @@
           "type": "question",
           "settings": {
             "question": "Comment puis-je retourner ma commande?",
-            "answer": "<p>Vous disposez d’un <strong>délai de rétractation de 14 jours</strong> après réception de votre commande. Envoyez un e-mail à [<a>retour@example.com</a>] en indiquant votre nom, votre numéro de commande et le produit que vous souhaitez retourner. Nous vous enverrons ensuite les instructions de retour.</p>"
+            "answer": "<p>Vous disposez d’un <strong>délai de rétractation de 14 jours</strong> après réception de votre commande. Envoyez un e-mail à support@noctiq.fr en indiquant votre nom, votre numéro de commande et le produit que vous souhaitez retourner. Nous vous enverrons ensuite les instructions de retour.</p>"
           }
         },
         "question_Mygr3z": {
