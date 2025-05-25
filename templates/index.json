@@ -298,8 +298,8 @@
       "settings": {
         "separate_section_with_border": true,
         "show_categories": false,
-        "subheading": "Need help?",
-        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "title": "Foire Aux Questions",
         "content": ""
       }
     },
