@@ -227,6 +227,13 @@
     "faq_G3CjWz": {
       "type": "faq",
       "blocks": {
+        "question_z6k9d9": {
+          "type": "question",
+          "settings": {
+            "question": "Comment fonctionnent exactement les lunettes anti-lumière bleue ?",
+            "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
+          }
+        },
         "question_cbzY8g": {
           "type": "question",
           "settings": {
@@ -271,6 +278,7 @@
         }
       },
       "block_order": [
+        "question_z6k9d9",
         "question_cbzY8g",
         "question_tEFCHk",
         "question_dqtqFp",
