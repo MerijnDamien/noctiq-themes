@@ -47,8 +47,8 @@
         "question_hahdEC": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "Comment puis-je retourner ma commande?",
+            "answer": "<p>Vous disposez d’un <strong>délai de rétractation de 14 jours</strong> après réception de votre commande. Envoyez un e-mail à [<a>retour@example.com</a>] en indiquant votre nom, votre numéro de commande et le produit que vous souhaitez retourner. Nous vous enverrons ensuite les instructions de retour.</p>"
           }
         },
         "question_Mygr3z": {
