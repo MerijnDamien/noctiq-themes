@@ -99,8 +99,15 @@
           "type": "text",
           "settings": {
             "title": "Service client",
-            "content": "<p>Une question ou un doute ?<br/><br/>Écrivez-nous à <a><strong>info@noctiq.fr</strong></a> – notre équipe vous répond avec plaisir, <strong>de jour comme de nuit</strong>. Nous sommes là pour vous aider à voir plus clair, à tout moment.</p>",
+            "content": "<p>Une question ou un doute ?<br/><br/>Écrivez-nous à <a><strong>info@noctiq.fr</strong></a> – notre équipe vous répond avec plaisir, <strong>de jour comme de nuit</strong>. Nous sommes là pour vous aider à voir plus clair, à tout moment.<br/></p>",
             "enable_follow_on_shop": false
+          }
+        },
+        "links_JeFecd": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true
           }
         },
         "newsletter": {
@@ -116,6 +123,7 @@
       "block_order": [
         "text",
         "text_rwaCgD",
+        "links_JeFecd",
         "newsletter"
       ],
       "settings": {
