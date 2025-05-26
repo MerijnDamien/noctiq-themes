@@ -76,9 +76,9 @@
           "settings": {
             "collection": "frontpage",
             "products_count": 6,
-            "title": "Bestsellers",
+            "title": "Meilleures ventes",
             "link_url": "",
-            "link_text": "View all"
+            "link_text": "Voir tout"
           }
         }
       },
