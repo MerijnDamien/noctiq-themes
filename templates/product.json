@@ -77,7 +77,7 @@
           "type": "description",
           "name": "Description",
           "settings": {
-            "collapse_content": true,
+            "collapse_content": false,
             "show_below_gallery": false
           }
         },
