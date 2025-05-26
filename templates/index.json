@@ -99,6 +99,7 @@
     },
     "391703b2-99fc-4ac4-bd97-42dad2b32c64": {
       "type": "recently-viewed-products",
+      "disabled": true,
       "settings": {
         "separate_section_with_border": true,
         "hide_product_information": false,

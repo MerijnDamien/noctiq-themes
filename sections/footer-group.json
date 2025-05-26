@@ -87,35 +87,27 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "title": "Ofertas y promociones",
-            "content": "<p>Únete al club de fanáticos de las fragancias. Recibirás promociones y anuncios de stock antes que el resto.</p>",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
-            "title": "Sobre Bravaperfumes.cl",
-            "content": "<p></p><p><strong>Somos Bravaperfumes.cl</strong></p><p>Comercializamos perfumes originales a todo Chile con envíos que demoran hasta 72hrs hábiles. Entregamos código y link de seguimiento a cada uno de nuestros clientes para que siempre tengan tranquilidad sobre su pedido. </p><p>Nos puedes visitar en: </p><p><strong>Espacio Urbano Piedra Roja Chicureo</strong></p><p>Lunes-Jueves 10:00am - 19:00pm</p><p>Viernes y Fin de semana 11:0am - 20:00pm</p><p><strong>Servicio al cliente Whatsapp: </strong></p><p>+569 45128179</p><p><strong>Llamadas:</strong><br/>+569 51982803</p><p><strong>Correo:</strong></p><p>Hola@bravaperfumes.cl</p><p>Siempre respondemos lo más rápido posible, compra en Bravaperfumes.cl</p>",
-            "enable_follow_on_shop": true
+            "title": "Noctiq",
+            "content": "<p>fasfdasf</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Rejoignez la Vision Claire!",
+            "content": "<p>Inscrivez-vous pour recevoir des offres exclusives, un accès anticipé aux nouvelles collections et des conseils pour protéger vos yeux face aux écrans.</p>",
+            "button_background": "#0d1338",
+            "button_text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "newsletter",
-        "links",
-        "text"
+        "text",
+        "newsletter"
       ],
       "settings": {
         "separate_section_with_border": true,
