@@ -83,6 +83,7 @@
         },
         "complementary_products": {
           "type": "complementary_products",
+          "disabled": true,
           "settings": {
             "title": "Pairs well with",
             "products_count": 2,
@@ -161,12 +162,87 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false
       }
+    },
+    "rich_text_UTc3fT": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_CXdBUt": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_thAX7E": {
+          "type": "heading",
+          "settings": {
+            "text": "Reviews",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_wHwqaV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CXdBUt",
+        "heading_thAX7E",
+        "richtext_wHwqaV"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_Dk4V8H": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_wxgKBr": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_eEwa8h": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_4Qyrgq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_wxgKBr",
+        "heading_eEwa8h",
+        "richtext_4Qyrgq"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
     "main",
     "169208423478cb346d",
     "related-products",
-    "loox-product-reviews-app-section"
+    "loox-product-reviews-app-section",
+    "rich_text_UTc3fT",
+    "image_with_text_Dk4V8H"
   ]
 }
