@@ -120,20 +120,20 @@
         "subheading_JAXEAR": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": ""
           }
         },
         "heading_qArmQ4": {
           "type": "heading",
           "settings": {
-            "text": "DESIRE FUNNEL",
+            "text": "Protection avancée contre la lumière bleue",
             "heading_tag": "h1"
           }
         },
         "richtext_fxVtHt": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Nos verres filtrants nouvelle génération réduisent l’exposition à la lumière bleue artificielle pour un confort visuel optimal, de jour comme de nuit.<br/><br/>👁‍🗨 Moins de fatigue oculaire<br/>Soulage les yeux secs, irrités ou larmoyants après de longues heures d’écran.<br/><br/>🧠 Meilleure concentration<br/>Réduit les maux de tête et la fatigue mentale liés à la lumière bleue.<br/><br/>🌙 Sommeil de meilleure qualité<br/>Protège la production de mélatonine pour un endormissement plus rapide.</p>"
           }
         }
       },
@@ -145,6 +145,8 @@
       "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "separate_section_with_border": true,
+        "image": "shopify://shop_images/Afbeelding_van_WhatsApp_op_2025-05-26_om_17.09.06_c0e9ec3f.jpg",
+        "mobile_image": "shopify://shop_images/Afbeelding_van_WhatsApp_op_2025-05-26_om_17.09.06_c0e9ec3f.jpg",
         "reveal_on_scroll": true,
         "image_position": "end",
         "content_width": "sm",
