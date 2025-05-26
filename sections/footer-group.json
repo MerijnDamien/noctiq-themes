@@ -90,8 +90,16 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Noctiq",
-            "content": "<p>fasfdasf</p>",
+            "title": "À propos de Noctiq",
+            "content": "<p>Nous concevons des lunettes anti-lumière bleue élégantes qui protègent vos yeux lors d’une utilisation intensive des écrans. Avec un design soigné et un confort réel, Noctiq aide vos yeux à se reposer — en toute conscience, avec attention, pour vous et pour la planète.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "text_rwaCgD": {
+          "type": "text",
+          "settings": {
+            "title": "Service client",
+            "content": "<p>Une question ou un doute ?<br/><br/>Écrivez-nous à <a><strong>info@noctiq.fr</strong></a> – notre équipe vous répond avec plaisir, <strong>de jour comme de nuit</strong>. Nous sommes là pour vous aider à voir plus clair, à tout moment.</p>",
             "enable_follow_on_shop": false
           }
         },
@@ -107,6 +115,7 @@
       },
       "block_order": [
         "text",
+        "text_rwaCgD",
         "newsletter"
       ],
       "settings": {
