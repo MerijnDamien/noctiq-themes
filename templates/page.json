@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "show_title": false,
+        "show_title": true,
         "page_width": "xs"
       }
     },
@@ -28,7 +28,7 @@
         "template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-1": {
           "type": "heading",
           "settings": {
-            "text": "À propos de Noctiq",
+            "text": "",
             "heading_tag": "h1"
           }
         },
