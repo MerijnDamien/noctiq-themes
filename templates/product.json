@@ -182,6 +182,42 @@
         "remove_vertical_spacing": true
       }
     },
+    "image_with_text_xHpgTX": {
+      "type": "image-with-text",
+      "blocks": {
+        "liquid_eQjMtX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<h1>Ajustement parfait. Style <span class=\"ycwebdesign-gradient\"> sans effort. </span></h1>"
+          }
+        },
+        "richtext_G6fdHL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nos lunettes filtrantes sont conçues pour un port agréable – que vous travailliez, jouiez ou étudiiez tard le soir. Pas de marques, pas d’inconfort. Juste du confort.</p>"
+          }
+        },
+        "liquid_Weza9i": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ycwebdesign-gradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#0a2240\" />\n      <stop offset=\"100%\" stop-color=\"#4fc3f7\" />\n    </linearGradient>\n  </defs>\n  <g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g>\n  <g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g>\n  <g id=\"SVGRepo_iconCarrier\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n      d=\"M1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12ZM18.4158 9.70405C18.8055 9.31268 18.8041 8.67952 18.4127 8.28984L17.7041 7.58426C17.3127 7.19458 16.6796 7.19594 16.2899 7.58731L10.5183 13.3838L7.19723 10.1089C6.80398 9.72117 6.17083 9.7256 5.78305 10.1189L5.08092 10.8309C4.69314 11.2241 4.69758 11.8573 5.09083 12.2451L9.82912 16.9174C10.221 17.3039 10.8515 17.301 11.2399 16.911L18.4158 9.70405Z\"\n      fill=\"url(#ycwebdesign-gradient)\"/>\n  </g>\n</svg>\n\n  </span>\n  <span class=\"info-text-yc\">Monture légère pour un usage quotidien\n</span>\n</div>\n\n<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ycwebdesign-gradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#0a2240\" />\n      <stop offset=\"100%\" stop-color=\"#4fc3f7\" />\n    </linearGradient>\n  </defs>\n  <g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g>\n  <g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g>\n  <g id=\"SVGRepo_iconCarrier\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n      d=\"M1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12ZM18.4158 9.70405C18.8055 9.31268 18.8041 8.67952 18.4127 8.28984L17.7041 7.58426C17.3127 7.19458 16.6796 7.19594 16.2899 7.58731L10.5183 13.3838L7.19723 10.1089C6.80398 9.72117 6.17083 9.7256 5.78305 10.1189L5.08092 10.8309C4.69314 11.2241 4.69758 11.8573 5.09083 12.2451L9.82912 16.9174C10.221 17.3039 10.8515 17.301 11.2399 16.911L18.4158 9.70405Z\"\n      fill=\"url(#ycwebdesign-gradient)\"/>\n  </g>\n</svg>\n\n\n  </span>\n  <span class=\"info-text-yc\">S’adapte à toutes les formes de visage sans glisser\n</span>\n</div>\n\n<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ycwebdesign-gradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#0a2240\" />\n      <stop offset=\"100%\" stop-color=\"#4fc3f7\" />\n    </linearGradient>\n  </defs>\n  <g id=\"SVGRepo_bgCarrier\" stroke-width=\"0\"></g>\n  <g id=\"SVGRepo_tracerCarrier\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></g>\n  <g id=\"SVGRepo_iconCarrier\">\n    <path fill-rule=\"evenodd\" clip-rule=\"evenodd\"\n      d=\"M1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12ZM18.4158 9.70405C18.8055 9.31268 18.8041 8.67952 18.4127 8.28984L17.7041 7.58426C17.3127 7.19458 16.6796 7.19594 16.2899 7.58731L10.5183 13.3838L7.19723 10.1089C6.80398 9.72117 6.17083 9.7256 5.78305 10.1189L5.08092 10.8309C4.69314 11.2241 4.69758 11.8573 5.09083 12.2451L9.82912 16.9174C10.221 17.3039 10.8515 17.301 11.2399 16.911L18.4158 9.70405Z\"\n      fill=\"url(#ycwebdesign-gradient)\"/>\n  </g>\n</svg>\n\n\n  </span>\n  <span class=\"info-text-yc\">Aucun point de pression derrière les oreilles ou sur le nez\n\n</span>\n</div>\n\n<style>\n.info-row-yc {\n  display: flex;\n  align-items: center;\n  margin-bottom: 6px;\n}\n\n.info-icon-yc {\n  width: 22px;\n  height: 22px;\n  margin-right: 16px;\n  display: flex;\n  align-items: center;\n}\n\n.info-icon-yc img {\n  width: 100%;\n  height: 100%;\n  object-fit: contain;\n  display: block;\n}\n\n.info-text-yc {\n  font-size: 1em;\n}\n</style>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_eQjMtX",
+        "richtext_G6fdHL",
+        "liquid_Weza9i"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/a-professional-portrait-photograph-of-a-_u2YS07AkQVi7IGrlvl6Qmg_YeT79s5GSZm4xtJFf_TlUw.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -282,6 +318,7 @@
     "main",
     "169208423478cb346d",
     "image_with_text_AH7E8G",
+    "image_with_text_xHpgTX",
     "related-products",
     "loox-product-reviews-app-section",
     "rich_text_UTc3fT",
