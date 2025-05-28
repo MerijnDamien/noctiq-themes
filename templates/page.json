@@ -1,1 +1,59 @@
-{"sections":{"main":{"type":"main-page","settings":{"show_title":true,"page_width":"xs"}},"3c27582d-a190-4145-a86c-91508a222d17":{"type":"rich-text","blocks":{"template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-0":{"type":"subheading","settings":{"text":"Nuestra historia"}},"template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-1":{"type":"heading","settings":{"text":"Bravaperfumes","heading_tag":"h1"}},"template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-2":{"type":"richtext","settings":{"content":"<p>Nuestra marca nace el año 2021 en pleno contexto pandemia. Comenzamos a ser fanáticos de los perfumes desde temprana edad y es una pasión que hemos compartido en nuestra familia. Comercializamos perfumes originales a todo el País a precios convenientes. Si tienes alguna pregunta utiliza los canales oficiales y estaremos feliz de poder ayudarte. <\/p>"}}},"block_order":["template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-0","template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-1","template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-2"],"settings":{"separate_section_with_border":true,"content_width":"sm","text_position":"center","remove_vertical_spacing":false}}},"order":["main","3c27582d-a190-4145-a86c-91508a222d17"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "3c27582d-a190-4145-a86c-91508a222d17": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-0": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-1": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chez <strong>Noctiq</strong>, nous pensons que les lunettes doivent faire bien plus que corriger la vue.<br/>Elles doivent protéger, inspirer et refléter votre style — de jour comme de nuit.</p><p>Notre mission : proposer des montures modernes qui allient design, confort et protection, notamment contre la lumière bleue.<br/>Pensées pour les yeux d’aujourd’hui, nos lunettes vous accompagnent devant l’écran, en déplacement ou en soirée.</p><p>Chaque modèle Noctiq est choisi avec soin, pour une esthétique affirmée, des matériaux de qualité et une sensation de légèreté au porté.<br/>Notre promesse ? Une vision claire, un look sûr et un confort durable.</p><p>Bienvenue chez Noctiq — vos lunettes, réinventées.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-0",
+        "template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-1",
+        "template--16840146419958__3c27582d-a190-4145-a86c-91508a222d17-16879596532d9e77f0-2"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3c27582d-a190-4145-a86c-91508a222d17"
+  ]
+}
