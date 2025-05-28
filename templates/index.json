@@ -52,7 +52,6 @@
         ".content-over-media.content-over-media--md {height: 575px !important;}",
         ".h2,div {margin-top: 10px !important;}"
       ],
-      "name": "t:sections.image_with_text_overlay.presets.image_with_text_overlay.name",
       "settings": {
         "image_size": "md",
         "image": "shopify://shop_images/Gemini_Generated_Image_r0t9mir0t9mir0t9.jpg",
@@ -85,7 +84,6 @@
       "block_order": [
         "collection_CJqjAq"
       ],
-      "name": "Bestseller",
       "settings": {
         "separate_section_with_border": true,
         "hide_product_information": true,
@@ -130,19 +128,19 @@
             "heading_tag": "h1"
           }
         },
-        "richtext_fxVtHt": {
-          "type": "richtext",
+        "liquid_nn8AUt": {
+          "type": "liquid",
           "settings": {
-            "content": "<p>Nos verres filtrants nouvelle génération réduisent l’exposition à la lumière bleue artificielle pour un confort visuel optimal, de jour comme de nuit.<br/><br/>👁‍🗨 Moins de fatigue oculaire<br/>Soulage les yeux secs, irrités ou larmoyants après de longues heures d’écran.<br/><br/>🧠 Meilleure concentration<br/>Réduit les maux de tête et la fatigue mentale liés à la lumière bleue.<br/><br/>🌙 Sommeil de meilleure qualité<br/>Protège la production de mélatonine pour un endormissement plus rapide.</p>"
+            "liquid": "<div class=\"features-row\">\n  <div class=\"feature-col\">\n    <span class=\"feature-icon\" style=\"color: #ffb366;\">\n      <!-- Example SVG icon; replace with your own -->\n      <svg width=\"40\" height=\"40\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M3 12h18M12 3v18\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    </span>\n    <h3>Enhanced sound clarity</h3>\n    <p>Advanced noise-filtering for superior clarity.</p>\n  </div>\n  <div class=\"feature-col\">\n    <span class=\"feature-icon\" style=\"color: #ffb366;\">\n      <svg width=\"40\" height=\"40\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M9 19V5l7 7-7 7z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    </span>\n    <h3>Voice-enhancing technology.</h3>\n    <p>Maintains clarity in voices amidst loud environments.</p>\n  </div>\n  <div class=\"feature-col\">\n    <span class=\"feature-icon\" style=\"color: #ffb366;\">\n      <svg width=\"40\" height=\"40\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M12 2l7 7v7l-7 7-7-7V9l7-7z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    </span>\n    <h3>Certified hearing protection.</h3>\n    <p>For ultimate protection against loud sounds.</p>\n  </div>\n</div>\n\n<style> \n.features-row {\n  display: flex;\n  justify-content: space-between;\n  align-items: flex-start;\n  gap: 2rem;\n  margin: 2rem 0;\n  flex-wrap: wrap;\n  flex-direction: row;\n}\n\n.feature-col {\n  flex: 1 1 220px;\n  min-width: 220px;\n  max-width: 340px;\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n  text-align: left;\n}\n\n.feature-icon {\n  font-size: 2.5rem;\n  margin-bottom: 1.2rem;\n  display: inline-block;\n}\n\nh3 {\n  font-size: 1.18rem;\n  font-weight: 600;\n  margin: 0 0 0.5rem 0;\n  line-height: 1.2;\n}\n\np {\n  font-size: 1rem;\n  color: #222;\n  margin: 0;\n  line-height: 1.5;\n}\n\n/* Responsive: stack columns on small screens */\n@media (max-width: 900px) {\n  .features-row {\n    flex-direction: column;\n    gap: 1.5rem;\n  }\n  .feature-col {\n    max-width: 100%;\n  }\n}\n\n</style>"
           }
         }
       },
       "block_order": [
         "subheading_JAXEAR",
         "heading_qArmQ4",
-        "richtext_fxVtHt"
+        "liquid_nn8AUt"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "custom_css": [],
       "settings": {
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Afbeelding_van_WhatsApp_op_2025-05-26_om_17.09.06_c0e9ec3f.jpg",
@@ -181,7 +179,6 @@
         "heading_9YmCbp",
         "richtext_LhdJgi"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "separate_section_with_border": true,
         "reveal_on_scroll": true,
@@ -218,7 +215,6 @@
         "heading_BzDMq4",
         "richtext_cbnXiD"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "separate_section_with_border": true,
         "reveal_on_scroll": true,
@@ -297,7 +293,6 @@
         "question_HdVdQb",
         "question_ABjbDJ"
       ],
-      "name": "t:sections.faq.presets.faq.name",
       "settings": {
         "separate_section_with_border": true,
         "show_categories": false,
@@ -334,7 +329,6 @@
         "heading_9PjWwx",
         "richtext_yxnYNy"
       ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "separate_section_with_border": true,
         "content_width": "sm",
@@ -442,7 +436,6 @@
         "logo_KnpUcN",
         "logo_Gw4ya7"
       ],
-      "name": "t:sections.logo_list.presets.logo_list.name",
       "settings": {
         "separate_section_with_border": false,
         "subheading": "Nos Clients",
@@ -454,7 +447,6 @@
     },
     "slideshow_QB8zBf": {
       "type": "slideshow",
-      "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": true,

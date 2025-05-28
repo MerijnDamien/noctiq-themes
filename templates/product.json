@@ -14,6 +14,7 @@
       "blocks": {
         "liquid_G8Ka3g": {
           "type": "liquid",
+          "name": "Reviews",
           "settings": {
             "liquid": "<div style=\"display: flex; align-items: center; gap: 6px;\">\n<div style=\"color: black; font-size: 16px;\">\n★★★★★\n</div>\n<span style=\"font-size: 13px; color: black;\">4.8/5.0 (343+ Avis)</span>\n</div>"
           }
@@ -39,7 +40,7 @@
         },
         "liquid_Rg8K8B": {
           "type": "liquid",
-          "name": "Low Stock",
+          "name": "Ready to ship",
           "settings": {
             "liquid": "<div class=\"stock-info-cstm\">\n<div class=\"blob red custom-icons blob-trust\"></div>\n<p style=\"margin: 0;\">En stock, prêt à être expédié!</p>\n</div>\n\n<style>\n.stock-info-cstm {\ndisplay: flex;\ngap: 12px;\nalign-items: center;\nmargin-top: 5px;\nmargin-bottom: 10px;\n}\n.blob.red {\nbackground: #307a07;\nbox-shadow: 0 0 #eb1809;\nanimation: pulse-red 2s infinite;\n}\n.blob {\ndisplay: block !important;\nbackground: #000;\nborder-radius: 50%;\nbox-shadow: 0 0 #000;\nheight: 10px;\nwidth: 10px;\ntransform: scale(1);\nanimation: pulse-black 2s infinite;\nmargin: 10px 10px 10px 5px;\n}\n\n@keyframes pulse-red {\n0% {\ntransform: scale(1);\nbox-shadow: 0 0 0 0 rgba(48, 122, 7, 0.7);\n}\n70% {\ntransform: scale(1.5);\nbox-shadow: 0 0 0 10px rgba(48, 122, 7, 0);\n}\n100% {\ntransform: scale(1);\nbox-shadow: 0 0 0 0 rgba(48, 122, 7, 0);\n}\n}\n</style>"
           }
@@ -75,7 +76,6 @@
         },
         "description": {
           "type": "description",
-          "name": "Description",
           "settings": {
             "collapse_content": false,
             "show_below_gallery": false
@@ -94,6 +94,7 @@
         },
         "5df6f88f-77b0-4e4a-be10-98efe74f3bb5": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div id=\"__ventipay_product_installments_block\"></div>\n\n<script type=\"text/javascript\">\n// VentiPay Widget\n// Setup\nvar __ventipay_color = 'primary'; // Background color of the button. One of: primary, white, black, or an HEX color code\nvar __ventipay_text_color = 'white'; // Text color of the button. One of: primary, white, black, or an HEX color code\nvar __ventipay_language = 'es'; // One of: es, en\n\n// DO NOT CHANGE ANYTHING BELOW THIS LINE\nvar __ventipay_money_format = {{ shop.money_format | json }};\nvar __ventipay_price_min = {{ product.price_min | json }};\nvar __ventipay_cart_currency = {{ cart.currency.iso_code | json }};\nvar __ventipay_customer = {{ customer | json }};\nvar __ventipay_cart = {{ cart | json }};\n</script>\n<script type=\"text/javascript\" src=\"https://js.ventipay.com/widgets/shopify/product/\"></script>"
           }
@@ -191,7 +192,6 @@
         "heading_thAX7E",
         "richtext_wHwqaV"
       ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "separate_section_with_border": true,
         "content_width": "sm",
@@ -227,7 +227,6 @@
         "heading_eEwa8h",
         "richtext_4Qyrgq"
       ],
-      "name": "t:sections.image_with_text.presets.image_with_text.name",
       "settings": {
         "separate_section_with_border": true,
         "reveal_on_scroll": true,
