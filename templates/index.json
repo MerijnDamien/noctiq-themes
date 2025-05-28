@@ -128,16 +128,23 @@
             "heading_tag": "h1"
           }
         },
+        "richtext_NmTMV7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nos verres filtrants nouvelle génération réduisent l’exposition à la lumière bleue artificielle pour un confort visuel optimal, de jour comme de nuit.<br/><br/></p>"
+          }
+        },
         "liquid_nn8AUt": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"ycwebdesign.nl_noctiq_icons\">\n\n  \n      <div class=\"ycwebdesign.nl_noctiq_icon\">\n        <img src=\"//hears.com/cdn/shop/files/Sounds_1000x1000.png?v=1733404527\">\n        <div class=\"ycwebdesign.nl_content_wrap\">\n        <h6>Enhanced sound clarity</h6>\n        <p>Advanced noise-filtering for superior hearing quality.</p>\n        </div>\n      </div>\n\n      <div class=\"ycwebdesign.nl_noctiq_icon\">\n        <img src=\"//hears.com/cdn/shop/files/Talking_1_1000x1000.png?v=1733404419\">\n        <div class=\"ycwebdesign.nl_content_wrap\">\n        <h6>Voice-enhancing technology.</h6>\n        <p>Maintains clarity in voices amidst loud environments.</p>\n        </div>\n      </div>\n\n       <div class=\"ycwebdesign.nl_noctiq_icon\">\n        <img src=\"//hears.com/cdn/shop/files/Shield_1000x1000.png?v=1733404692\">\n        <div class=\"ycwebdesign.nl_content_wrap\">\n        <h6>Certified hearing protection.</h6>\n        <p>For ultimate protection against loud sounds.</p>\n        </div>\n      </div>\n\n\n  \n    </div>\n\n<style>\n.ycwebdesign\\.nl_noctiq_icons {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 48px;\n  background: #fff;\n  padding: 40px 0;\n  margin: 0;\n}\n\n.ycwebdesign\\.nl_noctiq_icon {\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n  text-align: left;\n  margin: 0 !Important;\n}\n\n.ycwebdesign\\.nl_noctiq_icon img {\n  width: 48px;\n  height: 48px;\n}\n\n.ycwebdesign\\.nl_content_wrap h6 {\n  font-weight: 600;\n}\n\n/* Responsive adjustments */\n@media (max-width: 900px) {\n  .ycwebdesign\\.nl_noctiq_icons {\n    grid-template-columns: 1fr;\n    gap: 32px;\n  }\n  .ycwebdesign\\.nl_noctiq_icon {\n    align-items: flex-start;\n    text-align: left;\n  }\n}\n\n\n\n</style>"
+            "liquid": "<div class=\"ycwebdesign.nl_noctiq_icons\">\n\n  \n      <div class=\"ycwebdesign.nl_noctiq_icon\">\n        <img src=\"//hears.com/cdn/shop/files/Sounds_1000x1000.png?v=1733404527\">\n        <div class=\"ycwebdesign.nl_content_wrap\">\n        <h6>Enhanced sound clarity</h6>\n        <p>Advanced noise-filtering for superior hearing quality.</p>\n        </div>\n      </div>\n\n      <div class=\"ycwebdesign.nl_noctiq_icon\">\n        <img src=\"//hears.com/cdn/shop/files/Talking_1_1000x1000.png?v=1733404419\">\n        <div class=\"ycwebdesign.nl_content_wrap\">\n        <h6>Voice-enhancing technology.</h6>\n        <p>Maintains clarity in voices amidst loud environments.</p>\n        </div>\n      </div>\n\n       <div class=\"ycwebdesign.nl_noctiq_icon\">\n        <img src=\"//hears.com/cdn/shop/files/Shield_1000x1000.png?v=1733404692\">\n        <div class=\"ycwebdesign.nl_content_wrap\">\n        <h6>Certified hearing protection.</h6>\n        <p>For ultimate protection against loud sounds.</p>\n        </div>\n      </div>\n\n\n  \n    </div>\n\n<style>\n.ycwebdesign\\.nl_noctiq_icons {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 24px;\n  background: #fff;\n  margin: 0;\n}\n\n.ycwebdesign\\.nl_noctiq_icon {\n  display: flex;\n  flex-direction: column;\n  margin: 0 !Important;\n}\n\n.ycwebdesign\\.nl_noctiq_icon img {\n  width: 48px;\n  height: 48px;\n}\n\n.ycwebdesign\\.nl_content_wrap h6 {\n  font-weight: 600;\n}\n\n/* Responsive adjustments */\n@media (max-width: 900px) {\n  .ycwebdesign\\.nl_noctiq_icons {\n    grid-template-columns: 1fr;\n    gap: 32px;\n  }\n  .ycwebdesign\\.nl_noctiq_icon {\n    align-items: middle;\n    text-align: center;\n  }\n}\n\n\n\n</style>"
           }
         }
       },
       "block_order": [
         "subheading_JAXEAR",
         "heading_qArmQ4",
+        "richtext_NmTMV7",
         "liquid_nn8AUt"
       ],
       "custom_css": [
