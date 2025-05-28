@@ -28,6 +28,9 @@
     },
     "main": {
       "type": "main-collection",
+      "custom_css": [
+        ".center-text {text-align: left;}"
+      ],
       "settings": {
         "hide_product_information": false,
         "products_per_page": 48,

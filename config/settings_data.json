@@ -50,6 +50,7 @@
     "show_product_rating": true,
     "show_product_rating_if_empty": false,
     "show_quick_buy": true,
+    "show_discount": false,
     "discount_mode": "percentage",
     "cart_type": "drawer",
     "cart_icon": "shopping_cart",
