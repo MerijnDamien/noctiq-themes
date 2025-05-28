@@ -121,13 +121,6 @@
             "liquid": "<h1> Protection avancée contre la <span class=\"ycwebdesign-gradient\"> lumière bleue </span> </h1>\n\n<style>\n.ycwebdesign-gradient {\n  /* Gradient from dark blue to light blue, left to right */\n  background: linear-gradient(90deg, #2372d4, #4fc3f7);\n  background-clip: text;\n  -webkit-background-clip: text; /* For Safari/Chrome */\n  color: transparent;\n  -webkit-text-fill-color: transparent; /* For Safari/Chrome */\n}\n</style>"
           }
         },
-        "heading_qArmQ4": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
         "richtext_NmTMV7": {
           "type": "richtext",
           "settings": {
@@ -143,7 +136,6 @@
       },
       "block_order": [
         "liquid_YKt3VK",
-        "heading_qArmQ4",
         "richtext_NmTMV7",
         "liquid_nn8AUt"
       ],
@@ -161,11 +153,10 @@
     "image_with_text_Y9PEQL": {
       "type": "image-with-text",
       "blocks": {
-        "heading_9YmCbp": {
-          "type": "heading",
+        "liquid_kfQXNG": {
+          "type": "liquid",
           "settings": {
-            "text": "Ajustement parfait. Style sans effort.",
-            "heading_tag": "h1"
+            "liquid": "<h1>Ajustement parfait. Style <span class=\"ycwebdesign-gradient\"> sans effort. </span></h1>"
           }
         },
         "richtext_LhdJgi": {
@@ -182,7 +173,7 @@
         }
       },
       "block_order": [
-        "heading_9YmCbp",
+        "liquid_kfQXNG",
         "richtext_LhdJgi",
         "liquid_TmwgV9"
       ],
