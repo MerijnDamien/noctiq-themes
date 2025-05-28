@@ -161,28 +161,21 @@
     "image_with_text_Y9PEQL": {
       "type": "image-with-text",
       "blocks": {
-        "subheading_HKMDLm": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_9YmCbp": {
           "type": "heading",
           "settings": {
-            "text": "BENEFITS FUNNEL",
+            "text": "Ajustement parfait. Style sans effort.",
             "heading_tag": "h1"
           }
         },
         "richtext_LhdJgi": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Nos lunettes filtrantes sont conçues pour un port agréable – que vous travailliez, jouiez ou étudiiez tard le soir. Pas de marques, pas d’inconfort. Juste du confort.</p><ul><li>Monture légère pour un usage quotidien </li><li>S’adapte à toutes les formes de visage sans glisser </li><li>Aucun point de pression derrière les oreilles ou sur le nez<br/><br/></li></ul>"
           }
         }
       },
       "block_order": [
-        "subheading_HKMDLm",
         "heading_9YmCbp",
         "richtext_LhdJgi"
       ],
