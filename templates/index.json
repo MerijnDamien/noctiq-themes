@@ -118,7 +118,7 @@
         "liquid_YKt3VK": {
           "type": "liquid",
           "settings": {
-            "liquid": "<h1> Protection avancée contre la <span class=\"ycwebdesign-gradient\"> lumière bleue </span> </h1>\n\n<style>\n.ycwebdesign-gradient {\n  /* Gradient from dark blue to light blue, left to right */\n  background: linear-gradient(90deg, #0a2240, #4fc3f7);\n  background-clip: text;\n  -webkit-background-clip: text; /* For Safari/Chrome */\n  color: transparent;\n  -webkit-text-fill-color: transparent; /* For Safari/Chrome */\n  font-weight: bold; /* Optional: for more impact */\n}\n</style>"
+            "liquid": "<h1> Protection avancée contre la <span class=\"ycwebdesign-gradient\"> lumière bleue </span> </h1>\n\n<style>\n.ycwebdesign-gradient {\n  /* Gradient from dark blue to light blue, left to right */\n  background: linear-gradient(90deg, #2372d4, #4fc3f7);\n  background-clip: text;\n  -webkit-background-clip: text; /* For Safari/Chrome */\n  color: transparent;\n  -webkit-text-fill-color: transparent; /* For Safari/Chrome */\n}\n</style>"
           }
         },
         "heading_qArmQ4": {
