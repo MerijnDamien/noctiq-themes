@@ -301,41 +301,6 @@
         "content": ""
       }
     },
-    "rich_text_xTdLhT": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_WtYtpr": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_9PjWwx": {
-          "type": "heading",
-          "settings": {
-            "text": "INSTAFEED",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_yxnYNy": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_WtYtpr",
-        "heading_9PjWwx",
-        "richtext_yxnYNy"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
     "1748090790429fa237": {
       "type": "apps",
       "blocks": {
@@ -467,7 +432,6 @@
     "image_with_text_Y9PEQL",
     "image_with_text_K6MreX",
     "faq_G3CjWz",
-    "rich_text_xTdLhT",
     "1748090790429fa237",
     "168769821157a82f82",
     "logo_list_JhzJ3i",
