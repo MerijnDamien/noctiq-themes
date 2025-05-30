@@ -145,6 +145,41 @@
         "remove_horizontal_spacing": false
       }
     },
+    "rich_text_UTc3fT": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_CXdBUt": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_thAX7E": {
+          "type": "heading",
+          "settings": {
+            "text": "reviews",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_wHwqaV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CXdBUt",
+        "heading_thAX7E",
+        "richtext_wHwqaV"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "image_with_text_AH7E8G": {
       "type": "image-with-text",
       "blocks": {
@@ -256,41 +291,6 @@
         "remove_horizontal_spacing": false
       }
     },
-    "rich_text_UTc3fT": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_CXdBUt": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_thAX7E": {
-          "type": "heading",
-          "settings": {
-            "text": "reviews",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_wHwqaV": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_CXdBUt",
-        "heading_thAX7E",
-        "richtext_wHwqaV"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
-      }
-    },
     "image_with_text_Dk4V8H": {
       "type": "image-with-text",
       "blocks": {
@@ -319,6 +319,7 @@
         "heading_eEwa8h",
         "richtext_4Qyrgq"
       ],
+      "disabled": true,
       "settings": {
         "separate_section_with_border": true,
         "reveal_on_scroll": true,
@@ -331,11 +332,11 @@
   "order": [
     "main",
     "169208423478cb346d",
+    "rich_text_UTc3fT",
     "image_with_text_AH7E8G",
     "image_with_text_xHpgTX",
     "related-products",
     "loox-product-reviews-app-section",
-    "rich_text_UTc3fT",
     "image_with_text_Dk4V8H"
   ]
 }
