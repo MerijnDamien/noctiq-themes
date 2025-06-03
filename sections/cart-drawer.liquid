@@ -7,6 +7,24 @@
     {%- if settings.cart_show_free_shipping_bar -%}
       {%- render 'free-shipping-bar' -%}
     {%- endif -%}
+    <div class="cart-announcement">
+        <div class="cart-sale-box" data-live-text-setting="cart_sale_text">
+          
+        </div><p class="cart-shipping-text">
+          Livraison GRATUITE ! <b> Disponible aujourd'hui seulement</b>
+        </p>
+
+        <div class="slider-container">
+          <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+          </div>
+          <div class="slider-handle">
+            <div class="handle-circle">
+              <img src="//cdn.shopify.com/s/files/1/0952/6493/2180/t/6/assets/shipping_truck_image.webp?v=66889033073971349981743347350" height="23px" width="23px" alt="Cloud Icon" class="cloud-icon">
+            </div>
+          </div>
+        </div>
+      </div>
 
     <div class="cart-drawer__items">
       {%- for line_item in cart.items -%}
