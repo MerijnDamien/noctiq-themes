@@ -36,7 +36,7 @@
           "settings": {
             "style": "solid",
             "text": "ACHETEZ MAINTENANT",
-            "url": "",
+            "url": "shopify://collections/lunettes-anti-lumiere-bleue",
             "background": "#ffffff",
             "text_color": "#0d1338"
           }
@@ -85,8 +85,8 @@
         "collection_CJqjAq"
       ],
       "settings": {
-        "separate_section_with_border": true,
-        "hide_product_information": true,
+        "separate_section_with_border": false,
+        "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
