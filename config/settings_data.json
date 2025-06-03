@@ -144,5 +144,11 @@
       "text_font_size_desktop": 14,
       "button_letter_spacing": 18
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".image-with-text {margin: 5% 8%; border: 1px #d1d0d0 solid; border-radius: 20px;}",
+      "@media screen and (max-width: 700px) {.image-with-text {margin: 5% 5%; border: 1px #d1d0d0 solid; border-radius: 20px; }}"
+    ]
   }
 }
