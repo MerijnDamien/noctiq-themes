@@ -8,9 +8,7 @@
       {%- render 'free-shipping-bar' -%}
     {%- endif -%}
     <div class="cart-announcement">
-        <div class="cart-sale-box" data-live-text-setting="cart_sale_text">
-          
-        </div><p class="cart-shipping-text">
+        <p class="cart-shipping-text">
           Livraison GRATUITE ! <b> Disponible aujourd'hui seulement</b>
         </p>
 
@@ -27,7 +25,11 @@
       </div>
 
     <style>
-
+.cart-shipping-text {
+    color: black;
+    font-size: 14px;
+    margin-top: 9px;
+}
 .slider-container {
     width: 80%;
     margin: 10px auto;
