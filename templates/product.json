@@ -216,7 +216,8 @@
         "liquid_wfjwVN"
       ],
       "custom_css": [
-        ".text-center {text-align: left;}"
+        ".text-center {text-align: left;}",
+        " p {margin-block-start: 0rem;}"
       ],
       "settings": {
         "separate_section_with_border": true,
