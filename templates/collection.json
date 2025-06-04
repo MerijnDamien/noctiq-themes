@@ -29,7 +29,9 @@
     "main": {
       "type": "main-collection",
       "custom_css": [
-        ".center-text {text-align: left;}"
+        ".center-text {text-align: left;}",
+        ".h6 {font-size: 16px;}",
+        ".text-on-sale {font-size: 20px;}"
       ],
       "settings": {
         "hide_product_information": false,
