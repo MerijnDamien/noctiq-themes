@@ -217,7 +217,7 @@
       ],
       "custom_css": [
         ".text-center {text-align: left;}",
-        " p {margin-block-start: 0rem;}"
+        "p {margin-block-start: 0.25rem;}"
       ],
       "settings": {
         "separate_section_with_border": true,
