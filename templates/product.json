@@ -145,39 +145,15 @@
         "remove_horizontal_spacing": false
       }
     },
-    "rich_text_UTc3fT": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_CXdBUt": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_thAX7E": {
-          "type": "heading",
-          "settings": {
-            "text": "reviews",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_wHwqaV": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_CXdBUt",
-        "heading_thAX7E",
-        "richtext_wHwqaV"
-      ],
+    "custom_liquid_UXRyiN": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"swiper testimonial-swiper\">\n  <div class=\"swiper-wrapper\">\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n<div class=\"swiper-slide\">\n  <div class=\"card\">\n    <div class=\"card_img\">\n      <img loading=\"eager\" src=\"//hears.com/cdn/shop/files/IMG_3775_1000x1000.jpg?v=1744118403\" alt=\"\" class=\"card_image\">\n    </div>\n    <div class=\"card_content\">\n      <div class=\"content_top\">\n        <h4 class=\"heading\">Sabine Z.</h4>\n        <span class=\"card_stars\"> ★★★★★</span>\n      </div>\n      <p class=\"card_p\">\n        Wow, I'm Impressed!<br>\n        I wore earplugs but with reluctance and frustration before but with Hears it really is a different experience! They fit great and the sound is really good! I immediately recommended it to all my music lover friends.\n      </p>\n    </div>\n  </div>\n</div>\n\n\n\n  </div>\n\n\n<style>.card {\n  background: #fff;\n  border-radius: 20px;\n  box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  overflow: hidden;\n  display: flex;\n  flex-direction: column;\n  height: 100%;\n  max-width: 350px;\n  margin: 0 auto;\n}\n\n.card_img {\n  width: 100%;\n  height: 180px;\n  overflow: hidden;\n  background: #f5f5f5;\n}\n\n.card_image {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  display: block;\n}\n\n.card_content {\n  padding: 24px 20px 20px 20px;\n  display: flex;\n  flex-direction: column;\n  flex: 1;\n}\n\n.content_top {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  margin-bottom: 8px;\n}\n\n.names .heading {\n  font-size: 1.05em;\n  font-weight: 600;\n  color: #444;\n  margin: 0;\n}\n\n.card_stars {\n  color: #f39c12;\n  font-size: 1.1em;\n  letter-spacing: 2px;\n}\n\n.card_p {\n  font-size: 1em;\n  color: #222;\n  line-height: 1.5;\n  margin: 0;\n  text-align: left;\n}\n.testimonial-swiper {\n  padding-top: 20px;\n  padding-bottom: 20px;\n}\n</style>\n\n<script>\nwindow.addEventListener('load', function() {\n  new Swiper('.testimonial-swiper', {\n    loop: true,\n    spaceBetween: 24,\n    pagination: {\n      el: '.swiper-pagination',\n      clickable: true,\n    },\n    navigation: {\n      nextEl: '.swiper-button-next',\n      prevEl: '.swiper-button-prev',\n    },\n    breakpoints: {\n      // Mobile: show 1.2 slides, center the current slide\n      0: {\n        slidesPerView: 1.5,\n        centeredSlides: true,\n        spaceBetween: 16,\n      },\n      // Tablet: show 2.5 slides, still centered\n      600: {\n        slidesPerView: 2.5,\n        centeredSlides: true,\n        spaceBetween: 20,\n      },\n      900: {\n        slidesPerView: 3.5,\n        centeredSlides: true,\n        spaceBetween: 22,\n      },\n      // Desktop: show all 5 slides, centered\n      1200: {\n        slidesPerView: 5.5,\n        centeredSlides: true,\n        spaceBetween: 24,\n      }\n    }\n  });\n});\n\n</script>",
+        "text_alignment": "start"
       }
     },
     "image_with_text_AH7E8G": {
@@ -333,7 +309,7 @@
   "order": [
     "main",
     "169208423478cb346d",
-    "rich_text_UTc3fT",
+    "custom_liquid_UXRyiN",
     "image_with_text_AH7E8G",
     "image_with_text_xHpgTX",
     "related-products",
