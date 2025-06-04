@@ -84,6 +84,11 @@
       "block_order": [
         "collection_CJqjAq"
       ],
+      "custom_css": [
+        ".center-text {text-align: left;}",
+        ".h6 {font-size: 16px;}",
+        ".text-on-sale {font-size: 20px;}"
+      ],
       "settings": {
         "separate_section_with_border": false,
         "hide_product_information": false,
