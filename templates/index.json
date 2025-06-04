@@ -150,7 +150,7 @@
         "image": "shopify://shop_images/Afbeelding_van_WhatsApp_op_2025-05-26_om_17.09.06_c0e9ec3f.jpg",
         "mobile_image": "shopify://shop_images/Afbeelding_van_WhatsApp_op_2025-05-26_om_17.09.06_c0e9ec3f.jpg",
         "reveal_on_scroll": true,
-        "image_position": "start",
+        "image_position": "end",
         "content_width": "lg",
         "remove_vertical_spacing": true
       }
