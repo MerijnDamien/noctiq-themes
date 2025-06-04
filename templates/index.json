@@ -192,7 +192,7 @@
         "image": "shopify://shop_images/a-professional-portrait-photograph-of-a-_u2YS07AkQVi7IGrlvl6Qmg_YeT79s5GSZm4xtJFf_TlUw.jpg",
         "reveal_on_scroll": true,
         "image_position": "start",
-        "content_width": "sm",
+        "content_width": "lg",
         "remove_vertical_spacing": true
       }
     },
