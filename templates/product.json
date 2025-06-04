@@ -122,7 +122,8 @@
         ".product-info__block-item[data-block-type=\"liquid\"] {margin: 0;}",
         "sale-price.h4.text-on-sale {font-size: 24px;}",
         "[data-block-type=\"buy-buttons\"] {/* Your styles here */ margin-bottom: 10px !important;}",
-        ".product-sticky-bar.is-visible {background: #fff; padding: 10px;}"
+        ".product-sticky-bar.is-visible {background: #fff; padding: 10px;}",
+        "@media only screen and (min-width: 600px) {.free-shipping-text {display: none; }}"
       ],
       "settings": {
         "container_size": "lg",
