@@ -144,7 +144,9 @@
         "richtext_NmTMV7",
         "liquid_nn8AUt"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".text-center {text-align: left;}"
+      ],
       "settings": {
         "separate_section_with_border": true,
         "image": "shopify://shop_images/Afbeelding_van_WhatsApp_op_2025-05-26_om_17.09.06_c0e9ec3f.jpg",
@@ -182,7 +184,9 @@
         "richtext_LhdJgi",
         "liquid_TmwgV9"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".text-center {text-align: left;}"
+      ],
       "settings": {
         "separate_section_with_border": true,
         "image": "shopify://shop_images/a-professional-portrait-photograph-of-a-_u2YS07AkQVi7IGrlvl6Qmg_YeT79s5GSZm4xtJFf_TlUw.jpg",
