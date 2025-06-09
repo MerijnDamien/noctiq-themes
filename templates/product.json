@@ -88,7 +88,7 @@
           "type": "accordion",
           "settings": {
             "show_below_gallery": false,
-            "icon": "none",
+            "icon": "picto-delivery-truck",
             "title": "LIVRAISON GRATUITE",
             "content": "<p>Nous offrons actuellement la livraison gratuite en France — profitez-en !</p>",
             "page": ""
@@ -98,7 +98,7 @@
           "type": "accordion",
           "settings": {
             "show_below_gallery": false,
-            "icon": "none",
+            "icon": "picto-return",
             "title": "GARANTIE DE REMBOURSEMENT",
             "content": "<p>Nous offrons une garantie de remboursement à <strong>100 %</strong> dans les 14 jours suivant la réception de votre commande📦</p>",
             "page": ""
