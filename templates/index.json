@@ -254,6 +254,13 @@
             "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
           }
         },
+        "question_t9yb39": {
+          "type": "question",
+          "settings": {
+            "question": "Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?",
+            "answer": "<p>Oui, toutes nos lunettes anti-lumière bleue sont des modèles unisexes.</p>"
+          }
+        },
         "question_cbzY8g": {
           "type": "question",
           "settings": {
@@ -284,6 +291,7 @@
         },
         "question_4g83Rc": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Est-ce que ces lunettes ont du style, même en visioconférence ?",
             "answer": "<p>Oui, il existe des modèles élégants qui s’adaptent à un look professionnel, tendance ou discret selon vos goûts.</p>"
@@ -306,6 +314,7 @@
       },
       "block_order": [
         "question_z6k9d9",
+        "question_t9yb39",
         "question_cbzY8g",
         "question_tEFCHk",
         "question_dqtqFp",
