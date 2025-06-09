@@ -37,28 +37,6 @@
             "icon_width": 16
           }
         },
-        "category_G8XArJ": {
-          "type": "category",
-          "settings": {
-            "title": "Expédition et livraison",
-            "icon": "none",
-            "icon_width": 16
-          }
-        },
-        "question_QTgm9z": {
-          "type": "question",
-          "settings": {
-            "question": "Quel est le délai de livraison?",
-            "answer": "<p>Notre délai de livraison standard est de <strong>3 à 8 jours ouvrables</strong>. <strong>La livraison est gratuite</strong> sur toutes les commandes.<br/><br/>Dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi (track & trace) pour suivre votre colis.</p>"
-          }
-        },
-        "question_hahdEC": {
-          "type": "question",
-          "settings": {
-            "question": "Comment puis-je retourner ma commande?",
-            "answer": "<p>Vous disposez d’un <strong>délai de rétractation de 14 jours</strong> après réception de votre commande. Envoyez un e-mail à support@noctiq.fr en indiquant votre nom, votre numéro de commande et le produit que vous souhaitez retourner. Nous vous enverrons ensuite les instructions de retour.</p>"
-          }
-        },
         "question_Mygr3z": {
           "type": "question",
           "disabled": true,
@@ -66,25 +44,152 @@
             "question": "Est-ce que Noctiq propose des lunettes anti-lumière bleue avec correction?",
             "answer": "<p>Actuellement, <strong>Noctiq ne propose pas encore de lunettes anti-lumière bleue avec verres correcteurs</strong>. Cependant, nous recevons de plus en plus de demandes à ce sujet et envisageons de développer cette option à l’avenir.</p><p>Vous êtes intéressé(e) par des lunettes Noctiq avec correction ? Faites-le-nous savoir via le formulaire de contact ou par e-mail — votre avis nous aide à mieux répondre à vos besoins !</p>"
           }
+        }
+      },
+      "block_order": [
+        "category_pzieU9",
+        "question_Mygr3z"
+      ],
+      "disabled": true,
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "Foire Aux Questions",
+        "content": ""
+      }
+    },
+    "faq_eGw4n6": {
+      "type": "faq",
+      "blocks": {
+        "category_JxN647": {
+          "type": "category",
+          "settings": {
+            "title": "Expédition et livraison",
+            "icon": "none",
+            "icon_width": 16
+          }
         },
-        "category_QAi6Bq": {
+        "question_PcLYX8": {
+          "type": "question",
+          "settings": {
+            "question": "Quel est le délai de livraison?",
+            "answer": "<p>Notre délai de livraison standard est de <strong>3 à 8 jours ouvrables</strong>. <strong>La livraison est gratuite</strong> sur toutes les commandes.<br/><br/>Dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi (track & trace) pour suivre votre colis.</p>"
+          }
+        },
+        "question_MkfFiE": {
+          "type": "question",
+          "settings": {
+            "question": "Comment puis-je retourner ma commande?",
+            "answer": "<p>Vous disposez d’un <strong>délai de rétractation de 14 jours</strong> après réception de votre commande. Envoyez un e-mail à support@noctiq.fr en indiquant votre nom, votre numéro de commande et le produit que vous souhaitez retourner. Nous vous enverrons ensuite les instructions de retour.</p>"
+          }
+        },
+        "category_F87xrP": {
           "type": "category",
           "settings": {
             "title": "FAQ",
             "icon": "none",
             "icon_width": 16
           }
+        },
+        "question_dNr88P": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?</strong>",
+            "answer": "<p>Oui, toutes nos lunettes anti-lumière bleue sont des modèles unisexes.</p>"
+          }
+        },
+        "question_EFm9Gi": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment fonctionnent exactement les lunettes anti-lumière bleue ?</strong>",
+            "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
+          }
+        },
+        "question_Vze484": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Les lunettes anti-lumière bleue aident-elles contre les maux de tête ou la fatigue oculaire ?</strong>",
+            "answer": "<p>Oui, de nombreux utilisateurs ressentent moins de maux de tête et moins de fatigue ou d'irritation oculaire après de longues heures devant un écran.</p>"
+          }
+        },
+        "question_dJX6Et": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Est-ce qu’elles aident vraiment à mieux dormir ?</strong>",
+            "answer": "<p>Oui, en filtrant la lumière bleue le soir, elles facilitent l’endormissement et améliorent la qualité du sommeil.</p>"
+          }
+        },
+        "question_aViDAn": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Quels sont les avantages concrets pour ma productivité et ma concentration ?</strong>",
+            "answer": "<p>Vous restez concentré plus longtemps, êtes moins distrait par la fatigue et avez plus d’énergie en fin de journée.</p>"
+          }
+        },
+        "question_d9TEjd": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Puis-je porter ces lunettes toute la journée sans inconfort ?</strong>",
+            "answer": "<p>Oui, elles sont légères, confortables et conçues pour un usage prolongé sans points de pression ni irritation.</p>"
+          }
+        },
+        "question_nHDe8P": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "question": "Est-ce que ces lunettes ont du style, même en visioconférence ?",
+            "answer": "<p>Oui, il existe des modèles élégants qui s’adaptent à un look professionnel, tendance ou discret selon vos goûts.</p>"
+          }
+        },
+        "question_fQTeGQ": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Est-ce que ces lunettes modifient les couleurs de mon écran ?</strong>",
+            "answer": "<p>Non, la plupart conservent un rendu des couleurs naturel tout en filtrant le spectre bleu nocif.</p>"
+          }
+        },
+        "question_qd7ytJ": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Est-ce que l’investissement dans des lunettes anti-lumière bleue en vaut la peine ?</strong>",
+            "answer": "<p>Oui, surtout si vous passez beaucoup de temps devant un écran. Contrairement aux filtres logiciels, elles fonctionnent constamment et sans réglages.</p>"
+          }
+        },
+        "question_NMbfCr": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Vous avez d’autres questions ?</strong>",
+            "answer": "<p>Si vous avez la moindre question qui n’est pas couverte dans cette FAQ, n’hésitez pas à nous contacter. Vous pouvez nous écrire directement par e-mail à <a href=\"mailto:info@noctiq.fr\" target=\"_blank\" title=\"mailto:info@noctiq.fr\"><strong>info@noctiq.fr</strong></a> ou via notre page de contact.</p>"
+          }
+        },
+        "category_JzFa7L": {
+          "type": "category",
+          "settings": {
+            "title": "Category",
+            "icon": "none",
+            "icon_width": 16
+          }
         }
       },
       "block_order": [
-        "category_pzieU9",
-        "category_G8XArJ",
-        "question_QTgm9z",
-        "question_hahdEC",
-        "question_Mygr3z",
-        "category_QAi6Bq"
+        "category_JxN647",
+        "question_PcLYX8",
+        "question_MkfFiE",
+        "category_F87xrP",
+        "question_dNr88P",
+        "question_EFm9Gi",
+        "question_Vze484",
+        "question_dJX6Et",
+        "question_aViDAn",
+        "question_d9TEjd",
+        "question_nHDe8P",
+        "question_fQTeGQ",
+        "question_qd7ytJ",
+        "question_NMbfCr",
+        "category_JzFa7L"
       ],
-      "name": "t:sections.faq.presets.faq.name",
       "settings": {
         "separate_section_with_border": true,
         "show_categories": false,
@@ -97,6 +202,7 @@
   "order": [
     "main",
     "contact-form",
-    "faq_w6zW3j"
+    "faq_w6zW3j",
+    "faq_eGw4n6"
   ]
 }
