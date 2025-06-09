@@ -84,6 +84,26 @@
             "show_below_gallery": false
           }
         },
+        "accordion_r7EXVw": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Refunds policy",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "accordion_BrrgbL": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Shipping policy",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
         "complementary_products": {
           "type": "complementary_products",
           "disabled": true,
@@ -115,6 +135,8 @@
         "buy_buttons",
         "liquid_YdRGmE",
         "description",
+        "accordion_r7EXVw",
+        "accordion_BrrgbL",
         "complementary_products",
         "5df6f88f-77b0-4e4a-be10-98efe74f3bb5"
       ],
