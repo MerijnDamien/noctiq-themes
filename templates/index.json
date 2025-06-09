@@ -244,110 +244,6 @@
         "remove_vertical_spacing": true
       }
     },
-    "faq_G3CjWz": {
-      "type": "faq",
-      "blocks": {
-        "question_t9yb39": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?</strong>",
-            "answer": "<p>Oui, toutes nos lunettes anti-lumière bleue sont des modèles unisexes.</p>"
-          }
-        },
-        "question_z6k9d9": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Comment fonctionnent exactement les lunettes anti-lumière bleue ?</strong>",
-            "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
-          }
-        },
-        "question_cbzY8g": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Les lunettes anti-lumière bleue aident-elles contre les maux de tête ou la fatigue oculaire ?</strong>",
-            "answer": "<p>Oui, de nombreux utilisateurs ressentent moins de maux de tête et moins de fatigue ou d'irritation oculaire après de longues heures devant un écran.</p>"
-          }
-        },
-        "question_tEFCHk": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Est-ce qu’elles aident vraiment à mieux dormir ?</strong>",
-            "answer": "<p>Oui, en filtrant la lumière bleue le soir, elles facilitent l’endormissement et améliorent la qualité du sommeil.</p>"
-          }
-        },
-        "question_dqtqFp": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Quels sont les avantages concrets pour ma productivité et ma concentration ?</strong>",
-            "answer": "<p>Vous restez concentré plus longtemps, êtes moins distrait par la fatigue et avez plus d’énergie en fin de journée.</p>"
-          }
-        },
-        "question_JdihTa": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Puis-je porter ces lunettes toute la journée sans inconfort ?</strong>",
-            "answer": "<p>Oui, elles sont légères, confortables et conçues pour un usage prolongé sans points de pression ni irritation.</p>"
-          }
-        },
-        "question_4g83Rc": {
-          "type": "question",
-          "disabled": true,
-          "settings": {
-            "question": "Est-ce que ces lunettes ont du style, même en visioconférence ?",
-            "answer": "<p>Oui, il existe des modèles élégants qui s’adaptent à un look professionnel, tendance ou discret selon vos goûts.</p>"
-          }
-        },
-        "question_HdVdQb": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Est-ce que ces lunettes modifient les couleurs de mon écran ?</strong>",
-            "answer": "<p>Non, la plupart conservent un rendu des couleurs naturel tout en filtrant le spectre bleu nocif.</p>"
-          }
-        },
-        "question_ABjbDJ": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Est-ce que l’investissement dans des lunettes anti-lumière bleue en vaut la peine ?</strong>",
-            "answer": "<p>Oui, surtout si vous passez beaucoup de temps devant un écran. Contrairement aux filtres logiciels, elles fonctionnent constamment et sans réglages.</p>"
-          }
-        },
-        "question_EUFKFR": {
-          "type": "question",
-          "settings": {
-            "question": "<strong>Vous avez d’autres questions ?</strong>",
-            "answer": "<p>Si vous avez la moindre question qui n’est pas couverte dans cette FAQ, n’hésitez pas à nous contacter. Vous pouvez nous écrire directement par e-mail à <a href=\"mailto:info@noctiq.fr\" target=\"_blank\" title=\"mailto:info@noctiq.fr\"><strong>info@noctiq.fr</strong></a> ou via notre page de contact.</p>"
-          }
-        },
-        "category_LX6pRn": {
-          "type": "category",
-          "settings": {
-            "title": "Category",
-            "icon": "none",
-            "icon_width": 16
-          }
-        }
-      },
-      "block_order": [
-        "question_t9yb39",
-        "question_z6k9d9",
-        "question_cbzY8g",
-        "question_tEFCHk",
-        "question_dqtqFp",
-        "question_JdihTa",
-        "question_4g83Rc",
-        "question_HdVdQb",
-        "question_ABjbDJ",
-        "question_EUFKFR",
-        "category_LX6pRn"
-      ],
-      "settings": {
-        "separate_section_with_border": true,
-        "show_categories": false,
-        "subheading": "",
-        "title": "Foire Aux Questions",
-        "content": ""
-      }
-    },
     "1748090790429fa237": {
       "type": "apps",
       "blocks": {
@@ -427,6 +323,135 @@
         "liquid": "<div class=\"swiper testimonial-swiper\">\n  <div class=\"swiper-wrapper\">\n\n    <div class=\"swiper-slide\">\n      <img loading=\"eager\" src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/2_f3cd2e49-0d63-4fe9-b6ee-e2b9bae6d230.png?v=1748385248\" alt=\"\" class=\"card_image\">\n    </div>\n\n        <div class=\"swiper-slide\">\n      <img loading=\"eager\" src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/1.png?v=1748385246\" alt=\"\" class=\"card_image\">\n    </div>\n\n        <div class=\"swiper-slide\">\n      <img loading=\"eager\" src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/8_318da1ff-892d-46fa-9ae0-f54b24aa06e7.png?v=1748385246\" alt=\"\" class=\"card_image\">\n    </div>\n\n        <div class=\"swiper-slide\">\n      <img loading=\"eager\" src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/7_0964ac51-7dc4-4b11-8631-17f054293310.png?v=1748385245\" alt=\"\" class=\"card_image\">\n    </div>\n\n    <div class=\"swiper-slide\">\n      <img loading=\"eager\" src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/5.png?v=1748385245\" alt=\"\" class=\"card_image\">\n    </div>\n\n    <div class=\"swiper-slide\">\n      <img loading=\"eager\" src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/9.png?v=1748385244\" alt=\"\" class=\"card_image\">\n    </div>\n\n    <div class=\"swiper-slide\">\n      <img loading=\"eager\" src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/3_09957525-224d-4761-b571-8a16dd0eb76a.png?v=1748385235\" alt=\"\" class=\"card_image\">\n    </div>\n\n  </div>\n</div>\n\n\n\n\n<style>\n.card {\n  background: #fff;\n  border-radius: 20px;\n  box-shadow: 0 2px 12px rgba(0,0,0,0.08);\n  overflow: hidden;\n  display: flex;\n  flex-direction: column;\n  height: 100%;\n  max-width: 350px;\n  margin: 0 auto;\n}\n\n.card_img {\n  width: 100%;\n  height: 180px;\n  overflow: hidden;\n  background: #f5f5f5;\n}\n\n.card_image {\n  width: 100%;\n  height: 100%;\n  object-fit: cover;\n  display: block;\n}\n\n.card_content {\n  padding: 24px 20px 20px 20px;\n  display: flex;\n  flex-direction: column;\n  flex: 1;\n}\n\n.content_top {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  margin-bottom: 8px;\n}\n\n.names .heading {\n  font-size: 1.05em;\n  font-weight: 600;\n  color: #444;\n  margin: 0;\n}\n\n.card_stars {\n  color: #f39c12;\n  font-size: 1.1em;\n  letter-spacing: 2px;\n}\n\n.card_p {\n  font-size: 1em;\n  color: #222;\n  line-height: 1.5;\n  margin: 0;\n  text-align: left;\n}\n.testimonial-swiper {\n  padding-top: 20px;\n  padding-bottom: 20px;\n}\n</style>\n\n<script>\nwindow.addEventListener('load', function() {\n  new Swiper('.testimonial-swiper', {\n    loop: true,\n    spaceBetween: 24,\n    pagination: {\n      el: '.swiper-pagination',\n      clickable: true,\n    },\n    navigation: {\n      nextEl: '.swiper-button-next',\n      prevEl: '.swiper-button-prev',\n    },\n    breakpoints: {\n      0: {\n        slidesPerView: 1.5,\n        centeredSlides: true,\n        spaceBetween: 16,\n      },\n      600: {\n        slidesPerView: 2.5,\n        centeredSlides: true,\n        spaceBetween: 20,\n      },\n      900: {\n        slidesPerView: 3.5,\n        centeredSlides: true,\n        spaceBetween: 22,\n      },\n      1200: {\n        slidesPerView: 5.5,\n        centeredSlides: true,\n        spaceBetween: 24,\n      }\n    }\n  });\n});\n\n</script>",
         "text_alignment": "start"
       }
+    },
+    "faq_VjTgqP": {
+      "type": "faq",
+      "blocks": {
+        "category_nyPRJQ": {
+          "type": "category",
+          "settings": {
+            "title": "Expédition et Livraison",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16
+          }
+        },
+        "question_WGyMid": {
+          "type": "question",
+          "settings": {
+            "question": "Quel est le délai de livraison?",
+            "answer": "<p>Notre délai de livraison standard est de <strong>3 à 8 jours ouvrables</strong>. <strong>La livraison est gratuite</strong> sur toutes les commandes.<br/><br/>Dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi (track & trace) pour suivre votre colis.</p>"
+          }
+        },
+        "question_UYB8mW": {
+          "type": "question",
+          "settings": {
+            "question": "Comment puis-je retourner ma commande?",
+            "answer": "<p>Vous disposez d’un <strong>délai de rétractation de 14 jours</strong> après réception de votre commande. Envoyez un e-mail à support@noctiq.fr en indiquant votre nom, votre numéro de commande et le produit que vous souhaitez retourner. Nous vous enverrons ensuite les instructions de retour.</p>"
+          }
+        },
+        "category_nzEzQG": {
+          "type": "category",
+          "settings": {
+            "title": "FAQ",
+            "icon": "picto-chat",
+            "icon_width": 16
+          }
+        },
+        "question_VGWM7k": {
+          "type": "question",
+          "settings": {
+            "question": "Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?",
+            "answer": "<p>Oui, toutes nos lunettes anti-lumière bleue sont des modèles unisexes.</p>"
+          }
+        },
+        "question_yit4dT": {
+          "type": "question",
+          "settings": {
+            "question": "Comment fonctionnent exactement les lunettes anti-lumière bleue ?",
+            "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
+          }
+        },
+        "question_XG9kgF": {
+          "type": "question",
+          "settings": {
+            "question": "Les lunettes anti-lumière bleue aident-elles contre les maux de tête ou la fatigue oculaire ?",
+            "answer": "<p>Oui, de nombreux utilisateurs ressentent moins de maux de tête et moins de fatigue ou d'irritation oculaire après de longues heures devant un écran.</p>"
+          }
+        },
+        "question_rmmnVx": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce qu’elles aident vraiment à mieux dormir ?",
+            "answer": "<p>Oui, en filtrant la lumière bleue le soir, elles facilitent l’endormissement et améliorent la qualité du sommeil.</p>"
+          }
+        },
+        "question_Gy7KFQ": {
+          "type": "question",
+          "settings": {
+            "question": "Quels sont les avantages concrets pour ma productivité et ma concentration ?",
+            "answer": "<p>Vous restez concentré plus longtemps, êtes moins distrait par la fatigue et avez plus d’énergie en fin de journée.</p>"
+          }
+        },
+        "question_YHL74Y": {
+          "type": "question",
+          "settings": {
+            "question": "Puis-je porter ces lunettes toute la journée sans inconfort ?",
+            "answer": "<p>Oui, elles sont légères, confortables et conçues pour un usage prolongé sans points de pression ni irritation.</p>"
+          }
+        },
+        "question_X3iKVq": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "question": "Est-ce que ces lunettes ont du style, même en visioconférence ?",
+            "answer": "<p>Oui, il existe des modèles élégants qui s’adaptent à un look professionnel, tendance ou discret selon vos goûts.</p>"
+          }
+        },
+        "question_F6RrFx": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce que ces lunettes modifient les couleurs de mon écran ?",
+            "answer": "<p>Non, la plupart conservent un rendu des couleurs naturel tout en filtrant le spectre bleu nocif.</p>"
+          }
+        },
+        "question_DjaYFH": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce que l’investissement dans des lunettes anti-lumière bleue en vaut la peine ?",
+            "answer": "<p>Oui, surtout si vous passez beaucoup de temps devant un écran. Contrairement aux filtres logiciels, elles fonctionnent constamment et sans réglages.</p>"
+          }
+        },
+        "question_wfcHG9": {
+          "type": "question",
+          "settings": {
+            "question": "Vous avez d’autres questions ?",
+            "answer": "<p>Si vous avez la moindre question qui n’est pas couverte dans cette FAQ, n’hésitez pas à nous contacter. Vous pouvez nous écrire directement par e-mail à <a href=\"mailto:info@noctiq.fr\" target=\"_blank\" title=\"mailto:info@noctiq.fr\"><strong>info@noctiq.fr</strong></a> ou via notre page de contact.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_nyPRJQ",
+        "question_WGyMid",
+        "question_UYB8mW",
+        "category_nzEzQG",
+        "question_VGWM7k",
+        "question_yit4dT",
+        "question_XG9kgF",
+        "question_rmmnVx",
+        "question_Gy7KFQ",
+        "question_YHL74Y",
+        "question_X3iKVq",
+        "question_F6RrFx",
+        "question_DjaYFH",
+        "question_wfcHG9"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "Foire Aux Questions",
+        "content": ""
+      }
     }
   },
   "order": [
@@ -437,10 +462,10 @@
     "image_with_text_JFQQqL",
     "image_with_text_Y9PEQL",
     "image_with_text_K6MreX",
-    "faq_G3CjWz",
     "1748090790429fa237",
     "168769821157a82f82",
     "rich_text_TCfEi9",
-    "custom_liquid_aJ6RyY"
+    "custom_liquid_aJ6RyY",
+    "faq_VjTgqP"
   ]
 }

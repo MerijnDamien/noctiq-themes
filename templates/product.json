@@ -344,6 +344,135 @@
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
+    },
+    "faq_MWixPq": {
+      "type": "faq",
+      "blocks": {
+        "category_etU8Lb": {
+          "type": "category",
+          "settings": {
+            "title": "Expédition et Livraison",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16
+          }
+        },
+        "question_yEiary": {
+          "type": "question",
+          "settings": {
+            "question": "Quel est le délai de livraison?",
+            "answer": "<p>Notre délai de livraison standard est de <strong>3 à 8 jours ouvrables</strong>. <strong>La livraison est gratuite</strong> sur toutes les commandes.<br/><br/>Dès que votre commande est expédiée, vous recevrez un e-mail avec un lien de suivi (track & trace) pour suivre votre colis.</p>"
+          }
+        },
+        "question_8FdjiX": {
+          "type": "question",
+          "settings": {
+            "question": "Comment puis-je retourner ma commande?",
+            "answer": "<p>Vous disposez d’un <strong>délai de rétractation de 14 jours</strong> après réception de votre commande. Envoyez un e-mail à support@noctiq.fr en indiquant votre nom, votre numéro de commande et le produit que vous souhaitez retourner. Nous vous enverrons ensuite les instructions de retour.</p>"
+          }
+        },
+        "category_JYmbXM": {
+          "type": "category",
+          "settings": {
+            "title": "FAQ",
+            "icon": "picto-chat",
+            "icon_width": 16
+          }
+        },
+        "question_MWREW4": {
+          "type": "question",
+          "settings": {
+            "question": "Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?",
+            "answer": "<p>Oui, toutes nos lunettes anti-lumière bleue sont des modèles unisexes.</p>"
+          }
+        },
+        "question_wTyAUY": {
+          "type": "question",
+          "settings": {
+            "question": "Comment fonctionnent exactement les lunettes anti-lumière bleue ?",
+            "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
+          }
+        },
+        "question_zFiLRM": {
+          "type": "question",
+          "settings": {
+            "question": "Les lunettes anti-lumière bleue aident-elles contre les maux de tête ou la fatigue oculaire ?",
+            "answer": "<p>Oui, de nombreux utilisateurs ressentent moins de maux de tête et moins de fatigue ou d'irritation oculaire après de longues heures devant un écran.</p>"
+          }
+        },
+        "question_hk9LQf": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce qu’elles aident vraiment à mieux dormir ?",
+            "answer": "<p>Oui, en filtrant la lumière bleue le soir, elles facilitent l’endormissement et améliorent la qualité du sommeil.</p>"
+          }
+        },
+        "question_zxQ3D8": {
+          "type": "question",
+          "settings": {
+            "question": "Quels sont les avantages concrets pour ma productivité et ma concentration ?",
+            "answer": "<p>Vous restez concentré plus longtemps, êtes moins distrait par la fatigue et avez plus d’énergie en fin de journée.</p>"
+          }
+        },
+        "question_z9LtDQ": {
+          "type": "question",
+          "settings": {
+            "question": "Puis-je porter ces lunettes toute la journée sans inconfort ?",
+            "answer": "<p>Oui, elles sont légères, confortables et conçues pour un usage prolongé sans points de pression ni irritation.</p>"
+          }
+        },
+        "question_yd4DGm": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "question": "Est-ce que ces lunettes ont du style, même en visioconférence ?",
+            "answer": "<p>Oui, il existe des modèles élégants qui s’adaptent à un look professionnel, tendance ou discret selon vos goûts.</p>"
+          }
+        },
+        "question_XdXyLf": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce que ces lunettes modifient les couleurs de mon écran ?",
+            "answer": "<p>Non, la plupart conservent un rendu des couleurs naturel tout en filtrant le spectre bleu nocif.</p>"
+          }
+        },
+        "question_YqUNyX": {
+          "type": "question",
+          "settings": {
+            "question": "Est-ce que l’investissement dans des lunettes anti-lumière bleue en vaut la peine ?",
+            "answer": "<p>Oui, surtout si vous passez beaucoup de temps devant un écran. Contrairement aux filtres logiciels, elles fonctionnent constamment et sans réglages.</p>"
+          }
+        },
+        "question_QepTex": {
+          "type": "question",
+          "settings": {
+            "question": "Vous avez d’autres questions ?",
+            "answer": "<p>Si vous avez la moindre question qui n’est pas couverte dans cette FAQ, n’hésitez pas à nous contacter. Vous pouvez nous écrire directement par e-mail à <a href=\"mailto:info@noctiq.fr\" target=\"_blank\" title=\"mailto:info@noctiq.fr\"><strong>info@noctiq.fr</strong></a> ou via notre page de contact.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_etU8Lb",
+        "question_yEiary",
+        "question_8FdjiX",
+        "category_JYmbXM",
+        "question_MWREW4",
+        "question_wTyAUY",
+        "question_zFiLRM",
+        "question_hk9LQf",
+        "question_zxQ3D8",
+        "question_z9LtDQ",
+        "question_yd4DGm",
+        "question_XdXyLf",
+        "question_YqUNyX",
+        "question_QepTex"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "Foire Aux Questions",
+        "content": ""
+      }
     }
   },
   "order": [
@@ -355,6 +484,7 @@
     "custom_liquid_PCbfPW",
     "related-products",
     "loox-product-reviews-app-section",
-    "image_with_text_Dk4V8H"
+    "image_with_text_Dk4V8H",
+    "faq_MWixPq"
   ]
 }
