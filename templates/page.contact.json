@@ -66,8 +66,8 @@
         "category_JxN647": {
           "type": "category",
           "settings": {
-            "title": "Expédition et livraison",
-            "icon": "none",
+            "title": "Expédition et Livraison",
+            "icon": "picto-delivery-truck",
             "icon_width": 16
           }
         },
@@ -89,7 +89,7 @@
           "type": "category",
           "settings": {
             "title": "FAQ",
-            "icon": "none",
+            "icon": "picto-chat",
             "icon_width": 16
           }
         },
