@@ -247,45 +247,45 @@
     "faq_G3CjWz": {
       "type": "faq",
       "blocks": {
-        "question_z6k9d9": {
-          "type": "question",
-          "settings": {
-            "question": "Comment fonctionnent exactement les lunettes anti-lumière bleue ?",
-            "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
-          }
-        },
         "question_t9yb39": {
           "type": "question",
           "settings": {
-            "question": "Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?",
+            "question": "<strong>Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?</strong>",
             "answer": "<p>Oui, toutes nos lunettes anti-lumière bleue sont des modèles unisexes.</p>"
+          }
+        },
+        "question_z6k9d9": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Comment fonctionnent exactement les lunettes anti-lumière bleue ?</strong>",
+            "answer": "<p>Elles filtrent une partie de la lumière bleue de vos écrans, ce qui réduit la fatigue visuelle et protège votre rythme naturel de sommeil.</p>"
           }
         },
         "question_cbzY8g": {
           "type": "question",
           "settings": {
-            "question": "Les lunettes anti-lumière bleue aident-elles contre les maux de tête ou la fatigue oculaire ?",
+            "question": "<strong>Les lunettes anti-lumière bleue aident-elles contre les maux de tête ou la fatigue oculaire ?</strong>",
             "answer": "<p>Oui, de nombreux utilisateurs ressentent moins de maux de tête et moins de fatigue ou d'irritation oculaire après de longues heures devant un écran.</p>"
           }
         },
         "question_tEFCHk": {
           "type": "question",
           "settings": {
-            "question": "Est-ce qu’elles aident vraiment à mieux dormir ?",
+            "question": "<strong>Est-ce qu’elles aident vraiment à mieux dormir ?</strong>",
             "answer": "<p>Oui, en filtrant la lumière bleue le soir, elles facilitent l’endormissement et améliorent la qualité du sommeil.</p>"
           }
         },
         "question_dqtqFp": {
           "type": "question",
           "settings": {
-            "question": "Quels sont les avantages concrets pour ma productivité et ma concentration ?",
+            "question": "<strong>Quels sont les avantages concrets pour ma productivité et ma concentration ?</strong>",
             "answer": "<p>Vous restez concentré plus longtemps, êtes moins distrait par la fatigue et avez plus d’énergie en fin de journée.</p>"
           }
         },
         "question_JdihTa": {
           "type": "question",
           "settings": {
-            "question": "Puis-je porter ces lunettes toute la journée sans inconfort ?",
+            "question": "<strong>Puis-je porter ces lunettes toute la journée sans inconfort ?</strong>",
             "answer": "<p>Oui, elles sont légères, confortables et conçues pour un usage prolongé sans points de pression ni irritation.</p>"
           }
         },
@@ -300,28 +300,45 @@
         "question_HdVdQb": {
           "type": "question",
           "settings": {
-            "question": "Est-ce que ces lunettes modifient les couleurs de mon écran ?",
+            "question": "<strong>Est-ce que ces lunettes modifient les couleurs de mon écran ?</strong>",
             "answer": "<p>Non, la plupart conservent un rendu des couleurs naturel tout en filtrant le spectre bleu nocif.</p>"
           }
         },
         "question_ABjbDJ": {
           "type": "question",
           "settings": {
-            "question": "Est-ce que l’investissement dans des lunettes anti-lumière bleue en vaut la peine ?",
+            "question": "<strong>Est-ce que l’investissement dans des lunettes anti-lumière bleue en vaut la peine ?</strong>",
             "answer": "<p>Oui, surtout si vous passez beaucoup de temps devant un écran. Contrairement aux filtres logiciels, elles fonctionnent constamment et sans réglages.</p>"
+          }
+        },
+        "question_EUFKFR": {
+          "type": "question",
+          "settings": {
+            "question": "<strong>Vous avez d’autres questions ?</strong>",
+            "answer": "<p>Si vous avez la moindre question qui n’est pas couverte dans cette FAQ, n’hésitez pas à nous contacter. Vous pouvez nous écrire directement par e-mail à <a href=\"mailto:info@noctiq.fr\" target=\"_blank\" title=\"mailto:info@noctiq.fr\"><strong>info@noctiq.fr</strong></a> ou via notre page de contact.</p>"
+          }
+        },
+        "category_LX6pRn": {
+          "type": "category",
+          "settings": {
+            "title": "Category",
+            "icon": "none",
+            "icon_width": 16
           }
         }
       },
       "block_order": [
-        "question_z6k9d9",
         "question_t9yb39",
+        "question_z6k9d9",
         "question_cbzY8g",
         "question_tEFCHk",
         "question_dqtqFp",
         "question_JdihTa",
         "question_4g83Rc",
         "question_HdVdQb",
-        "question_ABjbDJ"
+        "question_ABjbDJ",
+        "question_EUFKFR",
+        "category_LX6pRn"
       ],
       "settings": {
         "separate_section_with_border": true,
