@@ -37,6 +37,14 @@
             "icon_width": 16
           }
         },
+        "category_G8XArJ": {
+          "type": "category",
+          "settings": {
+            "title": "Expédition et livraison",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
         "question_QTgm9z": {
           "type": "question",
           "settings": {
@@ -53,17 +61,28 @@
         },
         "question_Mygr3z": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "question": "Est-ce que Noctiq propose des lunettes anti-lumière bleue avec correction?",
             "answer": "<p>Actuellement, <strong>Noctiq ne propose pas encore de lunettes anti-lumière bleue avec verres correcteurs</strong>. Cependant, nous recevons de plus en plus de demandes à ce sujet et envisageons de développer cette option à l’avenir.</p><p>Vous êtes intéressé(e) par des lunettes Noctiq avec correction ? Faites-le-nous savoir via le formulaire de contact ou par e-mail — votre avis nous aide à mieux répondre à vos besoins !</p>"
+          }
+        },
+        "category_QAi6Bq": {
+          "type": "category",
+          "settings": {
+            "title": "FAQ",
+            "icon": "none",
+            "icon_width": 16
           }
         }
       },
       "block_order": [
         "category_pzieU9",
+        "category_G8XArJ",
         "question_QTgm9z",
         "question_hahdEC",
-        "question_Mygr3z"
+        "question_Mygr3z",
+        "category_QAi6Bq"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
