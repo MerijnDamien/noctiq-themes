@@ -33,7 +33,7 @@
         "liquid_gmyf9i": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/fast-delivery_800x800.png?v=1748093130\" alt=\"Livraison rapide\" />\n  </span>\n  <span class=\"info-text-yc\">Livraison Gratuite!</span>\n</div>\n\n<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/shield_1.png?v=1748093922\" alt=\"Garantie de satisfaction\" />\n  </span>\n  <span class=\"info-text-yc\">Garantie de satisfaction à 100%</span>\n</div>\n\n<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/idea_1.png?v=1748439355\" alt=\"Protection contre les lumières bleue\" />\n  </span>\n  <span class=\"info-text-yc\">Protection à 100% contre les lumières bleue\n</span>\n</div>\n\n<style>\n.info-row-yc {\n  display: flex;\n  align-items: center;\n  margin-bottom: 6px;\n}\n\n.info-icon-yc {\n  width: 22px;\n  height: 22px;\n  margin-right: 16px;\n  display: flex;\n  align-items: center;\n}\n\n.info-icon-yc img {\n  width: 100%;\n  height: 100%;\n  object-fit: contain;\n  display: block;\n}\n\n.info-text-yc {\n  font-size: 1em;\n}\n</style>"
+            "liquid": "<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/fast-delivery_800x800.png?v=1748093130\" alt=\"Livraison rapide\" />\n  </span>\n  <span class=\"info-text-yc\">Livraison Gratuite!</span>\n</div>\n\n<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/shield_1.png?v=1748093922\" alt=\"Garantie de satisfaction\" />\n  </span>\n  <span class=\"info-text-yc\">Garantie de remboursement à 100%</span>\n</div>\n\n<div class=\"info-row-yc\">\n  <span class=\"info-icon-yc\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0946/1923/8732/files/idea_1.png?v=1748439355\" alt=\"Protection contre les lumières bleue\" />\n  </span>\n  <span class=\"info-text-yc\">Protection à 100% contre les lumières bleue\n</span>\n</div>\n\n<style>\n.info-row-yc {\n  display: flex;\n  align-items: center;\n  margin-bottom: 6px;\n}\n\n.info-icon-yc {\n  width: 22px;\n  height: 22px;\n  margin-right: 16px;\n  display: flex;\n  align-items: center;\n}\n\n.info-icon-yc img {\n  width: 100%;\n  height: 100%;\n  object-fit: contain;\n  display: block;\n}\n\n.info-text-yc {\n  font-size: 1em;\n}\n</style>"
           }
         },
         "liquid_Rg8K8B": {
@@ -303,7 +303,7 @@
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": "",
-        "title": "Te podrían interesar",
+        "title": "",
         "content": ""
       }
     },
@@ -477,7 +477,7 @@
         "separate_section_with_border": true,
         "show_categories": false,
         "subheading": "",
-        "title": "Foire Aux Questions",
+        "title": "Question Fréquentes",
         "content": ""
       }
     }
