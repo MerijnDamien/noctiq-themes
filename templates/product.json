@@ -89,8 +89,8 @@
           "settings": {
             "show_below_gallery": false,
             "icon": "none",
-            "title": "Refunds policy",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "LIVRAISON GRATUITE",
+            "content": "<p>Nous offrons actuellement la livraison gratuite en France — profitez-en !</p>",
             "page": ""
           }
         },
@@ -99,8 +99,8 @@
           "settings": {
             "show_below_gallery": false,
             "icon": "none",
-            "title": "Shipping policy",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "GARANTIE DE REMBOURSEMENT",
+            "content": "<p>Nous offrons une <strong>garantie de remboursement</strong> à 100 % dans les 14 jours suivant la réception de votre commande📦</p>",
             "page": ""
           }
         },
