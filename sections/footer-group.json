@@ -129,7 +129,7 @@
         "links_JeFecd": {
           "type": "links",
           "settings": {
-            "menu": "main-menu",
+            "menu": "policies",
             "show_menu_title": true
           }
         },
