@@ -253,6 +253,9 @@
         "richtext_nkcjpK",
         "liquid_e3Mdpr"
       ],
+      "custom_css": [
+        ".text-center {text-align: left;}"
+      ],
       "settings": {
         "separate_section_with_border": true,
         "image": "shopify://shop_images/ae1fe86180bd8e342bf13ddbd42420e4_55277abf-7104-479c-b1e7-2b7bd8fd316b.jpg",
