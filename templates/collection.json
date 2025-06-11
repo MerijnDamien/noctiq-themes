@@ -53,10 +53,50 @@
         "show_color_swatch": false,
         "open_filters_by_default": false
       }
+    },
+    "faq_nwky8e": {
+      "type": "faq",
+      "blocks": {
+        "question_rYFTzD": {
+          "type": "question",
+          "settings": {
+            "question": "Comment choisir les bonnes lunettes pour la forme de mon visage ?",
+            "answer": "<p><br/>Choisir les bonnes lunettes commence par <strong>comprendre la forme de votre visage</strong>.<br/>Pour les visages ronds, optez pour des montures angulaires afin d'ajouter de la définition.<br/>Les visages carrés s’harmonisent bien avec des formes plus douces et arrondies pour adoucir les lignes marquées.<br/><br/></p>"
+          }
+        },
+        "question_nNHPDg": {
+          "type": "question",
+          "settings": {
+            "question": "Vos lunettes sont-elles unisexes ?",
+            "answer": "<p>Oui, toutes nos lunettes sont <strong>conçues pour être unisexes</strong>, alliant style et fonctionnalité pour tous. Nos montures sont soigneusement conçues pour convenir à une grande variété de formes de visage et de goûts personnels, afin que chacun puisse trouver la paire parfaite.</p>"
+          }
+        },
+        "question_xTg6wR": {
+          "type": "question",
+          "settings": {
+            "question": "Des questions ?",
+            "answer": "<p>Vous pouvez nous contacter via notre page de contact ! Nous serons heureux de vous aider.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_rYFTzD",
+        "question_nNHPDg",
+        "question_xTg6wR"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": ""
+      }
     }
   },
   "order": [
     "collection-banner",
-    "main"
+    "main",
+    "faq_nwky8e"
   ]
 }
