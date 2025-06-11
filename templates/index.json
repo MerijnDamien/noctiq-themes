@@ -230,13 +230,13 @@
         "richtext_CPUChK": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Prof. Serge Picaud</strong><br/><em>\"Les lunettes anti-lumière bleue bloquent les longueurs d’onde identifiées comme nocives pour la rétine. Elles offrent donc une véritable protection pour vos yeux lors d’une utilisation prolongée des écrans.\"</em></p>"
+            "content": "<p>Prof. S. Picaud<br/><em>\"Les lunettes anti-lumière bleue bloquent les longueurs d’onde identifiées comme nocives pour la rétine. Elles offrent donc une véritable protection pour vos yeux lors d’une utilisation prolongée des écrans.\"</em></p>"
           }
         },
         "richtext_nkcjpK": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>Dr. Petra Kunze</strong><br/><em>\"La meilleure façon de protéger vos yeux de la lumière bleue émise par les écrans ? De bonnes lunettes anti-lumière bleue. Aucune autre solution ne propose une protection comparable.\"</em></p>"
+            "content": "<p>Dr. P. Kunze<br/><em>\"La meilleure façon de protéger vos yeux de la lumière bleue émise par les écrans ? De bonnes lunettes anti-lumière bleue. Aucune autre solution ne propose une protection comparable.\"</em></p>"
           }
         },
         "liquid_e3Mdpr": {
