@@ -119,7 +119,6 @@
     },
     "custom_liquid_xTkCCm": {
       "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
@@ -160,8 +159,8 @@
       ],
       "settings": {
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/645cdce1-6558-45d1-a84f-efad6511e90c.png",
-        "mobile_image": "shopify://shop_images/645cdce1-6558-45d1-a84f-efad6511e90c.png",
+        "image": "shopify://shop_images/8e051ff0-2768-4aaa-8e1b-b477b8434263.png",
+        "mobile_image": "shopify://shop_images/8e051ff0-2768-4aaa-8e1b-b477b8434263.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
@@ -209,7 +208,6 @@
     },
     "custom_liquid_g7FqrC": {
       "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "separate_section_with_border": true,
         "remove_vertical_spacing": true,
@@ -363,7 +361,6 @@
         "subheading_3CtJCi",
         "heading_7kngCF"
       ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "separate_section_with_border": true,
         "content_width": "sm",
@@ -373,7 +370,6 @@
     },
     "custom_liquid_aJ6RyY": {
       "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "separate_section_with_border": true,
         "remove_vertical_spacing": true,
