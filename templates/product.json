@@ -178,7 +178,6 @@
     },
     "custom_liquid_UXRyiN": {
       "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
@@ -228,8 +227,8 @@
       ],
       "settings": {
         "separate_section_with_border": true,
-        "image": "shopify://shop_images/645cdce1-6558-45d1-a84f-efad6511e90c.png",
-        "mobile_image": "shopify://shop_images/645cdce1-6558-45d1-a84f-efad6511e90c.png",
+        "image": "shopify://shop_images/8e051ff0-2768-4aaa-8e1b-b477b8434263.png",
+        "mobile_image": "shopify://shop_images/a6962f0a-a866-4dce-b740-90da1fd43f62.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "lg",
@@ -277,7 +276,6 @@
     },
     "custom_liquid_PCbfPW": {
       "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
