@@ -427,13 +427,6 @@
             "icon_width": 16
           }
         },
-        "question_MWREW4": {
-          "type": "question",
-          "settings": {
-            "question": "Ces lunettes conviennent-elles aussi bien aux hommes qu’aux femmes ?",
-            "answer": "<p>Oui, toutes nos lunettes anti-lumière bleue sont des modèles unisexes.</p>"
-          }
-        },
         "question_wTyAUY": {
           "type": "question",
           "settings": {
@@ -504,7 +497,6 @@
         "question_yEiary",
         "question_8FdjiX",
         "category_JYmbXM",
-        "question_MWREW4",
         "question_wTyAUY",
         "question_zFiLRM",
         "question_hk9LQf",
