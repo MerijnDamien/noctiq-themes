@@ -22,9 +22,8 @@
         },
         "message-1": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "TODAS LAS COMPRAS LLEVAN MUESTRA DE REGALO"
+            "text": "<strong>LIVRAISON GRATUITE </strong>SUR <strong>TOUTES</strong> LES COMMANDES !"
           }
         },
         "62df77d4-fe68-46d3-9d57-1cb9252c23c2": {
